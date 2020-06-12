@@ -1,0 +1,438 @@
+# Translation of Plugins - Restricted Site Access - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Restricted Site Access - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-06 09:55:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Restricted Site Access - Stable (latest release)\n"
+
+#. translators: %s: The words 'I understand'.
+#: restricted_site_access.php:1421
+msgid "If you are absolutely sure you want to network deactivate Restricted Site Access, please type %s to proceed."
+msgstr "Si vous êtes absolument certain·e de vouloir désactiver Restricted Site Access du réseau, veuillez saisir %s pour procéder."
+
+#: restricted_site_access.php:1415
+msgid "You are about to disable Restricted Site Access across your entire network. This may unintentionally make other sites on the network public."
+msgstr "Vous êtes sur le point de complètement désactiver Restricted Site Access du réseau. Ce qui pourrait rendre tous les sites de votre réseau ouverts au public."
+
+#: restricted_site_access.php:1414
+msgid "Confirm Network Deactivation"
+msgstr "Confirmer la désactivation du réseau"
+
+#: restricted_site_access.php:853
+msgid "https://wordpress.org/plugins/restricted-site-access/#faq"
+msgstr "https://fr.wordpress.org/plugins/restricted-site-access/#faq"
+
+#. translators: %s: https://wordpress.org/plugins/restricted-site-access/#faq
+#: restricted_site_access.php:852
+msgid "Page caching appears to be enabled. Restricted Site Access may not work as expected. <a href=\"%s\">Learn more</a>."
+msgstr "La mise en cache des pages semble active. Restricted Site Access peut ne pas fonctionner comme attendu. <a href=\"%s\">En savoir plus</a>."
+
+#: restricted_site_access.php:753 restricted_site_access.php:1425
+msgid "I understand"
+msgstr "Je comprends"
+
+#: restricted_site_access.php:752
+msgid "Cancel"
+msgstr "Annuler"
+
+#: restricted_site_access.php:751
+msgid "Network Disable Plugin"
+msgstr "Désactiver l’extension du réseau"
+
+#: restricted_site_access.php:490
+msgid "View Site"
+msgstr "Voir le site"
+
+#: restricted_site_access.php:489
+msgid "Visit Dashboard"
+msgstr "Visiter le tableau de bord"
+
+#: restricted_site_access.php:483
+msgid "Your Sites"
+msgstr "Vos sites"
+
+#. Translators: %1$s: The site name.
+#: restricted_site_access.php:481
+msgid "If you reached this screen by accident and meant to visit one of your own sites, here are some shortcuts to help you find your way."
+msgstr "Si vous avez atteint cet écran par accident et souhaitiez plutôt visiter un de vos sites, voici quelques raccourcis pour vous aider à retrouver votre chemin."
+
+#. Translators: %1$s: The site name.
+#: restricted_site_access.php:480
+msgid "You attempted to access the \"%1$s\", but you do not currently have privileges on this site. If you believe you should be able to access the \"%1$s\" dashboard, please contact your network administrator."
+msgstr "Vous avez tenté d’accéder à « %1$s », cependant vous ne disposez pas pour le moment des droits nécessaires sur ce site. Si vous pensez que vous devriez pouvoir accéder au tableau de bord de « %1$s », veuillez contacter l’administrateur du réseau."
+
+#. Translators: %1$s: The site name.
+#: restricted_site_access.php:476
+msgid "You attempted to access the \"%1$s\" site, but you do not currently have privileges on this site. If you believe you should be able to access the \"%1$s\" dashboard, please contact your network administrator."
+msgstr "Vous avez tenté d’accéder à « %1$s », cependant vous ne disposez pas pour le moment des droits nécessaires sur ce site. Si vous pensez que vous devriez pouvoir accéder au tableau de bord de « %1$s », veuillez contacter l’administrateur du réseau."
+
+#: wp-cli.php:612
+msgctxt "update type"
+msgid "Network"
+msgstr "Réseau"
+
+#: wp-cli.php:610
+msgctxt "update type"
+msgid "Site"
+msgstr "Site"
+
+#: wp-cli.php:552
+msgid "Cannot get network settings when plugin not activated on network."
+msgstr "Impossible d’obtenir les réglages réseau lorsque l’extension n’est pas activée sur le réseau."
+
+#. translators: %2$s: IPs to whitelist, %1$s: Context: "Site" or "Network".
+#: wp-cli.php:532
+msgid "Set %2$s IP whitelist to %1$s."
+msgstr "Définir %2$s liste blanche d’IP sur %1$s."
+
+#. translators: %1$s: IP addresses. %2$s: Context: "Site" or "Network".
+#: wp-cli.php:478
+msgid "Removed IPs %1$s from %2$s whitelist."
+msgstr "Retirer les IP %1$s de la liste blanche %2$s."
+
+#. translators: %s: Context: "Site" or "Network".
+#: wp-cli.php:464
+msgid "Provided IPs are not on %s whitelist."
+msgstr "Les IP fournies ne sont pas sur la liste blanche %s."
+
+#. translators: %2$s: IP addresses. %1$s: Context: "Site" or "Network".
+#: wp-cli.php:417 wp-cli.php:487
+msgid "Current %2$s whitelisted IPs are: %1$s"
+msgstr "Les IP actuellement en liste blanche %2$s sont : %1$s"
+
+#. translators: %1$s: IP addresses. %2$s: Context: "Site" or "Network".
+#: wp-cli.php:408
+msgid "Added %1$s to %2$s whitelist."
+msgstr "Ajouté %1$s à la liste blanche %2$s."
+
+#. translators: %s: Context: "Site" or "Network".
+#: wp-cli.php:394
+msgid "Provided IPs are already on %s whitelist."
+msgstr "Les IP fournies sont actuellement sur la liste blanche %s."
+
+#: wp-cli.php:382 wp-cli.php:452 wp-cli.php:522
+msgid "No valid IP addresses provided."
+msgstr "Aucune adresse IP valide fournie."
+
+#: wp-cli.php:342
+msgid "No IP addresses configured."
+msgstr "Aucune adresse IP configurée."
+
+#. translators: %s: Network mode.
+#: wp-cli.php:294
+msgid "Set network mode to %s."
+msgstr "Définir le mode réseau sur %s."
+
+#. translators: %s: Network mode.
+#: wp-cli.php:285
+msgid "Mode is already set to %s."
+msgstr "Le mode est déjà défini sur %s."
+
+#: wp-cli.php:273
+msgid "Cannot set network mode when plugin not activated on network."
+msgstr "Impossible de définir le mode réseau lorsque l’extension n’est pas activée sur le réseau."
+
+#. translators: %s: What the user is updating: "Site" or "Network".
+#: wp-cli.php:235
+msgid "%s settings updated."
+msgstr "Réglages %s mis à jour."
+
+#. translators: %s: "Site" or "Network". %s: Page title.
+#: wp-cli.php:229
+msgid "%%s showing visitors page \"%s\""
+msgstr "%%s affichant la page des visiteurs \"%s\""
+
+#. translators: %s: Context: "Site" or "Network".
+#: wp-cli.php:224
+msgid "%s showing message to visitors."
+msgstr "%s affichage du message aux visiteurs."
+
+#. translators: %s: Context: "Site" or "Network". %s: Redirect URL.
+#: wp-cli.php:218
+msgid "%%s redirecting visitors to \"%s\""
+msgstr "%%s redirection des visiteurs vers \"%s\""
+
+#. translators: %s: Context: "Site" or "Network".
+#: wp-cli.php:213
+msgid "%s redirecting visitors to login."
+msgstr "%s redirection des visiteurs vers la connexion."
+
+#: wp-cli.php:198
+msgid "Page is invalid."
+msgstr "La page n’est pas valide."
+
+#: wp-cli.php:194
+msgid "Page required."
+msgstr "Page nécessaire."
+
+#: wp-cli.php:165
+msgid "Redirect URL required."
+msgstr "URL de redirection nécessaire."
+
+#. translators: %s: What the user is updating: "Site" or "Network".
+#: wp-cli.php:140
+msgid "%s restrictions disabled."
+msgstr "Restrictions %s désactivées."
+
+#. translators: %s: What the user is updating: "Site" or "Network".
+#: wp-cli.php:124
+msgid "%s already not under restricted access."
+msgstr "%s déjà sous accès non restreint."
+
+#: restricted_site_access.php:1230
+msgid "No published pages found."
+msgstr "Aucune page publiée trouvée."
+
+#: restricted_site_access.php:1100
+msgid "Unrestricted IP addresses set by code configuration"
+msgstr "Adresses IP non restreintes définies par configuration de code"
+
+#: restricted_site_access.php:1087
+msgid "Identify this entry"
+msgstr "Identifier cette entrée"
+
+#: restricted_site_access.php:1086
+msgid "IP Address or Range"
+msgstr "Adresse IP ou plage"
+
+#: restricted_site_access.php:592 restricted_site_access.php:978
+msgid "Site visibility settings are currently enforced by code configuration."
+msgstr "Les réglages de visibilité du site sont actuellement appliqués par configuration du code."
+
+#: restricted_site_access.php:560
+msgid "Enforce the settings below across all sites"
+msgstr "Appliquez les réglages ci-dessous à tous les sites"
+
+#: restricted_site_access.php:559
+msgid "Default to the settings below when creating a new site"
+msgstr "Les réglages par défaut sont les suivants lors de la création d’un nouveau site"
+
+#: restricted_site_access.php:1209
+msgid "Select a page"
+msgstr "Sélectionner une page"
+
+#: restricted_site_access.php:1066 restricted_site_access.php:1080
+msgctxt "remove IP address action"
+msgid "Remove"
+msgstr "Retirer"
+
+#: restricted_site_access.php:1053
+msgid "Show them a page"
+msgstr "Leur afficher une page"
+
+#: restricted_site_access.php:911
+msgctxt "help screen title"
+msgid "Restricted Site Acccess"
+msgstr "Restricted Site Acccess"
+
+#: restricted_site_access.php:904
+msgctxt "help topic"
+msgid "Redirection status code"
+msgstr "Code d’état de la redirection"
+
+#: restricted_site_access.php:898
+msgctxt "help topic"
+msgid "Redirect to the same path"
+msgstr "Rediriger vers le même chemin"
+
+#: restricted_site_access.php:892
+msgctxt "help topic"
+msgid "Redirect web address"
+msgstr "Adresse de redirection"
+
+#: restricted_site_access.php:885
+msgid "Here is a handy calculator to check your prefix."
+msgstr "Voici un calculateur pratique pour vérifier votre préfixe."
+
+#: restricted_site_access.php:880
+msgctxt "help topic"
+msgid "Allowed IP addresses"
+msgstr "Adresses IP autorisées"
+
+#: restricted_site_access.php:874
+msgctxt "help topic"
+msgid "Handle restricted visitors"
+msgstr "Gestion des visiteurs restreints"
+
+#: restricted_site_access.php:976
+msgid "Site visibility settings are currently enforced across all sites on the network."
+msgstr "Les réglages de visibilité du site sont actuellement appliqués à tous les sites du réseau."
+
+#: restricted_site_access.php:580
+msgid "Note: Neither of these options blocks access to your site — it is up to search engines to honor your request."
+msgstr "Note : aucune de ces options ne bloque l’accès à votre site — il appartient aux moteurs de recherche d’honorer votre demande."
+
+#: restricted_site_access.php:579
+msgid "Discourage search engines from indexing this site"
+msgstr "Indiquer aux moteurs de recherche de ne pas indexer ce site"
+
+#: restricted_site_access.php:577
+msgid "Allow search engines to index this site"
+msgstr "Autoriser les moteurs de recherche à indexer ce site"
+
+#: restricted_site_access.php:565 restricted_site_access.php:575
+msgid "Site Visibility"
+msgstr "Visibilité du site"
+
+#: restricted_site_access.php:555 restricted_site_access.php:558
+msgid "Mode"
+msgstr "Mode"
+
+#: restricted_site_access.php:552
+msgid "Restricted Site Access Settings"
+msgstr "Réglages de Restricted Site Access"
+
+#: restricted_site_access.php:198 restricted_site_access.php:640
+msgid "Unrestricted IP addresses"
+msgstr "Adresses IP sans restriction"
+
+#: restricted_site_access.php:193
+msgid "Restricted notice page"
+msgstr "Page de notification de la restriction"
+
+#: restricted_site_access.php:173 restricted_site_access.php:632
+msgid "Restriction message"
+msgstr "Message de restriction"
+
+#: restricted_site_access.php:172
+msgctxt "default restriction message"
+msgid "Access to this site is restricted."
+msgstr "L’accès à ce site est restreint."
+
+#. Author URI of the plugin
+msgid "https://10up.com"
+msgstr "https://10up.com"
+
+#. Author of the plugin
+msgid "Jake Goldman, 10up, Oomph"
+msgstr "Jake Goldman, 10up, Oomph"
+
+#. Description of the plugin
+msgid "<strong>Limit access your site</strong> to visitors who are logged in or accessing the site from a set of specific IP addresses. Send restricted visitors to the log in page, redirect them, or display a message or page. <strong>Powerful control over redirection</strong>, including <strong>SEO friendly redirect headers</strong>. Great solution for Extranets, publicly hosted Intranets, or parallel development sites."
+msgstr "<strong>Limitez l&rsquo;accès de votre site</strong> aux visiteurs connectés ou à ceux qui y accèdent depuis un lot d&rsquo;adresse IP spécifique. Orientez les visiteurs restreints vers la page de connexion, redirigez les, ou affichez leur un message ou une page spécifique. <strong>Contrôle puissant des redirections</strong>, incluant des <strong>en-têtes de redirection optimisées pour le SEO</strong>. Une solution très intéressante pour vos extranets ou intranets hébergés publiquement, ou sites de développement parallèles."
+
+#. Plugin URI of the plugin
+msgid "https://10up.com/plugins/restricted-site-access-wordpress/"
+msgstr "https://10up.com/plugins/restricted-site-access-wordpress/"
+
+#. Plugin Name of the plugin
+msgid "Restricted Site Access"
+msgstr "Restricted Site Access"
+
+#: restricted_site_access.php:1342
+msgid "Settings"
+msgstr "Réglages"
+
+#: restricted_site_access.php:1191
+msgid "307 Temporary"
+msgstr "307 Temporaire"
+
+#: restricted_site_access.php:1190
+msgid "302 Undefined"
+msgstr "302 Non définie"
+
+#: restricted_site_access.php:1189
+msgid "301 Permanent"
+msgstr "301 Permanente"
+
+#: restricted_site_access.php:1173
+msgid "Send restricted visitor to same path (relative URL) at the new web address"
+msgstr "Orienter les visiteurs restreints sur le même chemin (Url relative) de la nouvelle adresse du site"
+
+#: restricted_site_access.php:1121 wp-cli.php:184
+msgid "Access to this site is restricted."
+msgstr "L’accès à ce site est restreint."
+
+#: restricted_site_access.php:1112
+msgid "To manage IP addresses, you must use a JavaScript enabled browser."
+msgstr "Pour gérer les adresses IP, vous devez utiliser un navigateur sur lequel JavaScript est activé."
+
+#: restricted_site_access.php:1090
+msgid "Add My Current IP Address"
+msgstr "Ajouter mon adresse IP actuelle"
+
+#: restricted_site_access.php:1088
+msgid "Enter a single IP address or a range using a subnet prefix"
+msgstr "Saisir une adresse IP ou un plage d’adresses IP en utilisant un préfixe de sous réseau"
+
+#: restricted_site_access.php:1087
+msgid "Add"
+msgstr "Ajouter"
+
+#: restricted_site_access.php:1048
+msgid "Show them a simple message"
+msgstr "Leur afficher un simple message"
+
+#: restricted_site_access.php:1045
+msgid "Redirect them to a specified web address"
+msgstr "Les rediriger vers une adresse web spécifique"
+
+#: restricted_site_access.php:1042
+msgid "Send them to the WordPress login screen"
+msgstr "Les orienter vers l’écran de connexion de WordPress"
+
+#: restricted_site_access.php:583 restricted_site_access.php:970
+msgid "Restrict site access to visitors who are logged in or allowed by IP address"
+msgstr "Restreindre l’accès de ce site aux visiteurs connectés ou dont l’adresse IP est autorisée"
+
+#: restricted_site_access.php:905
+msgid "Redirect status codes can provide certain visitors, particularly search engines, more information about the nature of the redirect. A 301 redirect tells search engines that a page has moved permanently to the new location. 307 indicates a temporary redirect. 302 is an undefined redirect."
+msgstr "Les codes d’état de redirection peuvent fournir à certains visiteurs, en particulier les moteurs de recherche, plus d’informations à propos de la nature de la redirection. Un code d’état 301 indique aux moteurs de recherche que la page a été déplacée de manière permanente à la nouvelle adresse. Un code d’état 307 indique une redirection temporaire. Un code d’état 302 est une redirection non définie."
+
+#: restricted_site_access.php:188 restricted_site_access.php:624
+msgid "Redirection status code"
+msgstr "Code d’état de la redirection"
+
+#: restricted_site_access.php:899
+msgid "redirect the visitor to the same path (URI) entered at this site. Typically used when there are two, very similar sites at different public web addresses; for instance, a parallel development server accessible on the Internet but not intended for the public."
+msgstr "Rediriger le visiteur sur le chemin (URI) à partir duquel le visiteur est arrivé sur ce site. Cette option est généralement utilisée lorsqu'il y a deux sites très similaires à des adresses publiques différentes ; par exemple un serveur de développement parallèle accessible sur internet mais non supposé être accessible publiquement."
+
+#: restricted_site_access.php:183 restricted_site_access.php:616
+msgid "Redirect to same path"
+msgstr "Rediriger sur le même chemin"
+
+#: restricted_site_access.php:893
+msgid "The web address of the site you want the visitor redirected to."
+msgstr "L’adresse web vers laquelle vous souhaitez rediriger le visiteur."
+
+#: restricted_site_access.php:178 restricted_site_access.php:608
+msgid "Redirect web address"
+msgstr "Rediriger vers l’adresse de site"
+
+#: restricted_site_access.php:887
+msgid "The redirection fields are only used when \"Handle restricted visitors\" is set to \"Redirect them to a specified web address\"."
+msgstr "Les champs de redirection sont uniquement utilisés lorsque la « Gestion de la restriction pour les visiteurs » est réglée sur « Redirection sur une adresse de site particulière »."
+
+#: restricted_site_access.php:881
+msgid "enter a single IP address (for example, 192.168.1.105) or an IP range using a network prefix (for example, 10.0.0.1/24). Enter your addresses carefully!"
+msgstr "renseignez une adresse IP unique (par exemple : 192.168.1.105) ou une plage d’IP en utilisant un préfixe de réseau (par exemple : 10.0.0.1/24). Saisissez vos adresses avec soin !"
+
+#: restricted_site_access.php:875
+msgid "Choose the method for handling visitors to your site that are restricted."
+msgstr "Choisissez la méthode de gestion de la restriction pour les visiteurs de votre site."
+
+#: restricted_site_access.php:168 restricted_site_access.php:600
+msgid "Handle restricted visitors"
+msgstr "Gestion de la restriction pour les visiteurs"
+
+#: restricted_site_access.php:806
+msgid "Please enter the web address you would like to redirect restricted visitors to. If no address is entered, visitors will be redirected to the login screen."
+msgstr "Veuillez renseigner l&rsquo;adresse du site sur laquelle vous souhaitez rediriger vos visiteurs. Si aucune adresse n&rsquo;est renseignée, les visiteurs seront redirigés sur la page d'authentification de WordPress."
+
+#: restricted_site_access.php:804
+msgid "Please select the page you want to show restricted visitors. If no page is selected, WordPress will simply show a general restriction message."
+msgstr "Veuillez sélectionner la page que vous souhaitez afficher à vos visiteurs. Si aucune page n&rsquo;est sélectionnée, WordPress affichera un message informant de la restriction de l&rsquo;accès à ce site."
+
+#: restricted_site_access.php:706
+msgid "Restricted Site Access plug-in is blocking public access to this site."
+msgstr "L’extension Restricted Site Access bloque l’accès public à ce site."
+
+#: restricted_site_access.php:692
+msgid "Public access to this site has been restricted."
+msgstr "L’accès public à ce site est restreint."

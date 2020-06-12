@@ -1,0 +1,2951 @@
+# Translation of Plugins - WPMobile.App — Android and iOS Mobile Application - Development (trunk) in French (France)
+# This file is distributed under the same license as the Plugins - WPMobile.App — Android and iOS Mobile Application - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-26 22:18:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WPMobile.App — Android and iOS Mobile Application - Development (trunk)\n"
+
+#: inc/admin/ui/auto.php:877
+msgid "Vibrate effect"
+msgstr "Effet de vibration"
+
+#: inc/functions/shortcodes.php:1035 inc/functions/shortcodes.php:1043
+msgid "Scanner"
+msgstr "Scanner"
+
+#: inc/admin/ui/auto.php:850
+msgid "Never turn off the screen"
+msgstr "Ne jamais éteindre l’écran"
+
+#: inc/admin/ui/stats.php:267
+msgid "Delete stats (CANT BE UNDONE)"
+msgstr "Supprimer les statistiques (ne peut pas être annulé)"
+
+#: inc/admin/ui/stats.php:264
+msgid "Delete everything"
+msgstr "Tout supprimer"
+
+#: inc/admin/ui/stats.php:263
+msgid "Delete everything older than 30 days"
+msgstr "Supprimez tout ce qui date de plus de 30 jours"
+
+#: inc/admin/ui/stats.php:262
+msgid "Delete everything older than 90 days"
+msgstr "Supprimer tout ce qui date de plus de 90 jours"
+
+#: inc/admin/ui/stats.php:261
+msgid "Delete everything older than 365 days"
+msgstr "Supprimez tout ce qui date de plus de 365 jours"
+
+#: inc/admin/ui/auto.php:724
+msgid "Disable all cache"
+msgstr "Désactiver tous les caches"
+
+#: inc/admin/ui/options.php:717
+msgid "Remove a language"
+msgstr "Retirer une langue"
+
+#: inc/admin/ui/publish.php:92
+msgid "To apply the name - logo - splashscreen change, you have to update the app on stores."
+msgstr "Pour appliquer le changement de nom - logo - écran d’affichage, vous devez mettre à jour l’application sur les boutiques."
+
+#: inc/functions/colors.php:291
+msgid "Button text - border - icon color"
+msgstr "Texte du bouton - bordure - couleur de l’icône"
+
+#: inc/functions/colors.php:277
+msgid "Left menu text and button color"
+msgstr "Texte du menu gauche et couleur du bouton"
+
+#: inc/functions/format.php:318
+msgid "Continue"
+msgstr "Continuer"
+
+#: inc/functions/sdk2019.php:413
+msgid "Not available in demo"
+msgstr "Non disponible en démo"
+
+#: inc/functions/sdk2019.php:413
+msgid "Use the free preview app to test this feature"
+msgstr "Utilisez l'application de prévisualisation gratuite pour tester cette fonctionnalité"
+
+#: inc/functions/sdk2019.php:22 inc/stats/render.php:22
+msgid "Push configuration"
+msgstr "Configuration des pushs"
+
+#: inc/functions/sdk2019.php:17 inc/stats/render.php:17
+msgid "Push history"
+msgstr "Historique des notifications"
+
+#: inc/admin/ui/auto.php:622
+msgid "Redirect to after login"
+msgstr "Rediriger après connexion"
+
+#: inc/admin/ui/auto.php:617
+msgid "Action on login"
+msgstr "Action après la connexion"
+
+#: inc/admin/ui/cert.php:140
+msgid "When a post is published or edited or updated"
+msgstr "Lorsqu'un article est publiée, éditée ou mis à jour"
+
+#: inc/api/push.php:772
+msgctxt "Order status"
+msgid "Failed"
+msgstr "Échouée"
+
+#: inc/api/push.php:771
+msgctxt "Order status"
+msgid "Refunded"
+msgstr "Remboursé"
+
+#: inc/api/push.php:770
+msgctxt "Order status"
+msgid "Cancelled"
+msgstr "Annulée"
+
+#: inc/api/push.php:769
+msgctxt "Order status"
+msgid "Completed"
+msgstr "Terminée"
+
+#: inc/api/push.php:768
+msgctxt "Order status"
+msgid "On hold"
+msgstr "En attente"
+
+#: inc/api/push.php:767
+msgctxt "Order status"
+msgid "Processing"
+msgstr "En cours"
+
+#: inc/api/push.php:766
+msgctxt "Order status"
+msgid "Pending payment"
+msgstr "En attente de paiement"
+
+#. Plugin Name of the plugin
+msgid "WPMobile.App — Android and iOS Mobile Application"
+msgstr "WPMobile. app — Application mobile Android et iOS"
+
+#: inc/admin/ui/theme.php:298 inc/admin/ui/theme.php:302
+msgid "Native mobile interface"
+msgstr "Interface mobile Native"
+
+#: inc/admin/ui/auto.php:882
+msgid "Animate page load on WordPress Themes"
+msgstr "Animer le chargement de la page sur les thèmes WordPress"
+
+#: inc/admin/sdkupdate.php:48
+msgid "Dismiss 1 month"
+msgstr "Masquer 1 mois"
+
+#: inc/admin/sdkupdate.php:42
+msgid "<h4 style=\"font-size:18px;margin-top:0\">🚀 New WPMobile.App SDK available</h4>&bull; 3x faster<br/>&bull; Embed the last Apple & Google framework<br/>&bull; GDPR ready (no more 3rd library)"
+msgstr "<h4 style=\"font-size:18px;margin-top:0\">🚀 Nouveau SDK WPMobile.App disponible</h4>&bull; 3x plus rapide<br/>&bull; Embarque les derniers framework Apple & Google<br/>&bull;  RGPD compatible (plus de librairie tierce)"
+
+#: inc/admin/ui/cert.php:261
+msgid "Your package name is"
+msgstr "Votre nom de package est"
+
+#: inc/admin/ui/cert.php:261
+msgid "Follow <a href=\"https://support.wpmobile.app/article/265-get-the-google-services-json-file-and-api-key?lang=en\" target=\"_blank\">this guide</a> to get the google-services.json file and API Key"
+msgstr "Suivez le <a href=\"https://support.wpmobile.app/article/265-get-the-google-services-json-file-and-api-key?lang=fr\" target=\"_blank\">guide</a> pour obtenir le fichier google-services.json et une clé API Google"
+
+#: inc/admin/ui/cert.php:283
+msgid "Uploaded"
+msgstr "Chargé"
+
+#: inc/admin/ui/cert.php:276
+msgid "google-services.json file"
+msgstr "Fichier google-services.json"
+
+#: inc/functions/shortcodes.php:608
+msgid "Manage notifications"
+msgstr "Gérer les notifications"
+
+#: inc/functions/shortcodes.php:178
+msgid "Reset successfull"
+msgstr "Réinitialisation ok"
+
+#: inc/functions/shortcodes.php:175
+msgid "Error"
+msgstr "Erreur"
+
+#: inc/admin/ui/preview.php:190
+msgid "App"
+msgstr "App"
+
+#: inc/admin/ui/preview.php:189
+msgid "Splashscreen"
+msgstr "Splashscreen"
+
+#: inc/admin/sdkupdate.php:86
+msgid "Disable deprecated features"
+msgstr "Désactiver les fonctionnalités obsolètes"
+
+#: inc/admin/sdkupdate.php:84
+msgid "<h4 style=\"font-size:18px;margin-top:0\">⚠ Features deprecated in the new SDK</h4>From February 28 you can continue to use <b>%s</b> but you will not be able to update the application."
+msgstr "<h4 style=\"font-size:18px;margin-top:0\">⚠ Fonctionnalités obsolètes avec le nouveau SDK</h4>A partir du 28 février vous pourrez continuer à utiliser <b>%s</b> mais vous ne pourrez pas mettre à jour l'application."
+
+#: inc/admin/sdkupdate.php:45
+msgid "Enable the new SDK"
+msgstr "Activer le nouveau SDK"
+
+#: inc/admin/sdkupdate.php:45 inc/admin/sdkupdate.php:86
+msgid "This action cant be undone. Are you sure?"
+msgstr "Cette action ne peux pas être annulée. Êtes-vous sûr?"
+
+#: inc/functions/shortcodes.php:337
+msgid "Password lost?"
+msgstr "Mot de passe perdu?"
+
+#: inc/functions/shortcodes.php:321
+msgid "Send reset link"
+msgstr "Envoyer le lien de réinitialisation"
+
+#: inc/functions/shortcodes.php:178
+msgid "Reset link sended. Check your mailbox."
+msgstr "Vérifiez votre boîte mail."
+
+#: inc/functions/shortcodes.php:175
+msgid "Impossible to reset the password for this email."
+msgstr "Impossible de réinitialiser le mot de passe de cet e-mail."
+
+#: inc/functions/shortcodes.php:72
+msgid "[%s] Password Reset"
+msgstr "[%s] Réinitialiser le mot de passe"
+
+#: inc/functions/shortcodes.php:59
+msgid "To reset your password, visit the following address:"
+msgstr "Pour réinitialiser votre mot de passe, visitez l'adresse suivante :"
+
+#: inc/functions/shortcodes.php:58
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "S'il s'agit d'une erreur, ignorez simplement cet email et rien ne se produira."
+
+#: inc/functions/shortcodes.php:56
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Nous avons reçu une demande de réinitialisation du mot de passe pour le compte suivant :"
+
+#: inc/admin/ui/cert.php:164
+msgid "When a BuddyPress notification is sent"
+msgstr "Lorsqu'une notification BuddyPress est envoyée"
+
+#: inc/admin/ui/cert.php:242
+msgid "Title + Text"
+msgstr "Titre + texte"
+
+#: inc/admin/ui/cert.php:238
+msgid "Content of the push"
+msgstr "Contenu de la notification"
+
+#: inc/functions/shortcodes.php:128
+msgid "Please type a password."
+msgstr "Veuillez saisir un mot de passe."
+
+#: inc/functions/shortcodes.php:130
+msgid "The password need to contain at least 8 characters."
+msgstr "Le mot de passe doit contenir au moins 8 caractères."
+
+#: inc/admin/ui/auto.php:300
+msgid "Some options require the WPMobile.App theme"
+msgstr "Certaines options requièrent le thème WPMobile.App"
+
+#: inc/admin/ui/push.php:580
+msgid "All users"
+msgstr "Tous les utilisateurs"
+
+#: inc/admin/ui/theme.php:490
+msgid "On website"
+msgstr "Sur le site Web"
+
+#: inc/admin/ui/theme.php:464
+msgid "On the app"
+msgstr "Sur l'App"
+
+#: inc/admin/ui/submenu.php:83
+msgid "< Back"
+msgstr "< Retour"
+
+#: inc/admin/ui/home.php:106
+msgid "Options"
+msgstr "Options"
+
+#: inc/admin/ui/home.php:105
+msgid "Translation"
+msgstr "Traduction"
+
+#: inc/admin/ui/home.php:103
+msgid "Block design"
+msgstr "Block design"
+
+#: inc/admin/ui/home.php:102
+msgid "Theme and colors"
+msgstr "Thème et couleurs"
+
+#: inc/admin/ui/publish.php:357
+msgid "App design"
+msgstr "Design de l'app"
+
+#: inc/admin/ui/cert.php:176
+msgid "When a mail is sent to an user"
+msgstr "Lorsqu'un mail est envoyé à un utilisateur"
+
+#: inc/admin/ui/cert.php:152
+msgid "When a WooCommerce order status change"
+msgstr "Quand une commande WooCommerce change de statut"
+
+#: inc/admin/ui/options.php:2967
+msgid "Share box"
+msgstr "Boîte de partage"
+
+#: inc/admin/ui/options.php:2960
+msgid "Login page"
+msgstr "Page de connexion"
+
+#: inc/admin/talkus.php:16
+msgid "Enable the light app mode (beta)"
+msgstr "Activer le mode light (bêta)"
+
+#: inc/api/push.php:785
+msgid "Order status changed from %s to %s"
+msgstr "État de la commande modifié de %s à %s."
+
+#: inc/stats/render.php:114
+msgid "register"
+msgstr "inscription"
+
+#: inc/stats/render.php:111
+msgid "login"
+msgstr "connexion"
+
+#: inc/stats/render.php:93
+msgid "screen"
+msgstr "écran"
+
+#: inc/stats/render.php:44
+msgid "(not set)"
+msgstr "(non défini)"
+
+#: inc/functions/shortcodes.php:1015
+msgid "No information for now."
+msgstr "Aucune information pour l’instant."
+
+#: inc/functions/shortcodes.php:372
+msgid "Password"
+msgstr "Mot de passe"
+
+#: inc/functions/shortcodes.php:325 inc/functions/shortcodes.php:339
+#: inc/functions/shortcodes.php:384
+msgid "cancel"
+msgstr "annuler"
+
+#: inc/functions/shortcodes.php:300 inc/functions/sdk2019.php:34
+#: inc/admin/import.php:351 inc/stats/render.php:34
+msgid "Login"
+msgstr "Connexion"
+
+#: inc/functions/shortcodes.php:219
+msgid "You are now connected"
+msgstr "Vous êtes à présent connecté"
+
+#: inc/functions/shortcodes.php:219
+msgid "Account successfully created."
+msgstr "Compte créé avec succès."
+
+#: inc/functions/shortcodes.php:209 inc/functions/shortcodes.php:302
+#: inc/functions/shortcodes.php:378
+msgid "Register"
+msgstr "S’inscrire"
+
+#: inc/functions/shortcodes.php:145
+msgid "Couldn&#8217;t register you&hellip; please contact the <a href=\"mailto:%s\">webmaster</a> !"
+msgstr "Inscription impossible&hellip; Veuillez prendre contact avec le <a href=\"mailto:%s\">webmaster</a>&nbsp;!"
+
+#: inc/functions/shortcodes.php:120
+msgid "This email is already registered, please choose another one."
+msgstr "Cette adresse email est déjà enregistrée. Veuillez en choisir une autre."
+
+#: inc/functions/shortcodes.php:117
+msgid "The email address isn&#8217;t correct."
+msgstr "Cette adresse mail est incorrecte."
+
+#: inc/functions/shortcodes.php:115
+msgid "Please type your email address."
+msgstr "Veuillez saisir votre adresse email."
+
+#: inc/functions/shortcodes.php:109
+msgid "Sorry, that username is not allowed."
+msgstr "Ce nom d’utilisateur n’est pas autorisé."
+
+#: inc/functions/shortcodes.php:103
+msgid "This username is already registered. Please choose another one."
+msgstr "Ce nom d’utilisateur existe déjà. Merci d’en choisir un autre."
+
+#: inc/functions/shortcodes.php:100
+msgid "This username is invalid because it uses illegal characters. Please enter a valid username."
+msgstr "Ce nom d’utilisateur est invalide, car il contient des caractères non autorisés. Veuillez entrer un nom d’utilisateur valide."
+
+#: inc/functions/shortcodes.php:98
+msgid "Please enter a username."
+msgstr "Merci d’entrer un nom d’utilisateur."
+
+#: inc/admin/ui/options.php:2925
+msgid "End a group"
+msgstr "Fermer un groupe"
+
+#: inc/admin/ui/options.php:2917
+msgid "Start a group"
+msgstr "Commencer un groupe"
+
+#: inc/admin/ui/options.php:2199
+msgid "URL"
+msgstr "URL"
+
+#: inc/admin/ui/options.php:2146
+msgid "Group start"
+msgstr "Début de groupe"
+
+#: inc/admin/ui/options.php:2145
+msgid "Group end"
+msgstr "Fin de groupe"
+
+#: inc/admin/ui/options.php:2128 inc/admin/ui/options.php:2231
+msgid "Logged in"
+msgstr "Connecté"
+
+#: inc/admin/ui/auto.php:894
+msgid "Lazy load images"
+msgstr "Chargement différé des images"
+
+#: inc/admin/ui/publish.php:184
+msgid "Expert mode"
+msgstr "Mode expert"
+
+#: inc/admin/ui/publish.php:168
+msgid "Fast configuration"
+msgstr "Configuration rapide"
+
+#: inc/admin/ui/theme.php:312
+msgid "WordPress themes"
+msgstr "Thèmes WordPress"
+
+#: inc/admin/ui/theme.php:305
+msgid "Super light"
+msgstr "Ultra léger"
+
+#: inc/admin/ui/theme.php:296
+msgid "WPMobile.App themes"
+msgstr "Thèmes WPMobile.App"
+
+#: inc/api/push.php:664 inc/api/push.php:791
+msgid "Order updates"
+msgstr "Mises à jour de la commande"
+
+#: inc/admin/ui/auto.php:425 inc/admin/ui/auto.php:1222
+#: inc/admin/ui/auto.php:1881
+msgid "Open all pdf link with the Drive reader"
+msgstr "Ouvrir tous les liens pdf avec le lecteur Drive"
+
+#: inc/admin/ui/home.php:277
+msgid "Build the app"
+msgstr "Créer l’appli"
+
+#: inc/functions/shortcodes.php:363
+msgid "Username"
+msgstr "Nom d’utilisateur"
+
+#: inc/functions/sdk2019.php:117
+msgid "You have unread notifications"
+msgstr "Vous avez des notifications non lues"
+
+#: inc/functions/sdk2019.php:117
+msgid "notifications"
+msgstr "notifications"
+
+#: inc/functions/colors.php:211
+msgid "After a BuddyPress page"
+msgstr "Après une page BuddyPress"
+
+#: inc/functions/colors.php:210
+msgid "Before a BuddyPress page"
+msgstr "Avant une page BuddyPress"
+
+#: inc/functions/colors.php:219
+msgid "After lists"
+msgstr "Après les listes"
+
+#: inc/functions/colors.php:218
+msgid "Before lists"
+msgstr "Avant les listes"
+
+#: inc/admin/ui/submenu.php:70
+msgid "Style and Javascript"
+msgstr "Style et Javascript"
+
+#: inc/admin/ui/publish.php:435
+msgid "Show the splashscreen for maximum"
+msgstr "Montrer le splashscreen pour maximum"
+
+#: inc/admin/ui/options.php:2126 inc/admin/ui/options.php:2226
+msgid "Not logged in"
+msgstr "Non connecté"
+
+#. Description of the plugin
+msgid "Android and iOS mobile application for any WordPress wesbite. Easy setup, free test."
+msgstr "Application mobile Android et iOS pour sites WordPress. Installation facile, test gratuit."
+
+#: inc/admin/ui/menu.php:242
+msgid "Select a logo"
+msgstr "Sélectionnez un logo"
+
+#: inc/admin/ui/menu.php:238
+msgid "BEST SIZE: 1024x1024"
+msgstr "MEILLEURE TAILLE: 1024x1024"
+
+#: inc/admin/ui/menu.php:237
+msgid "Logo for the app launcher"
+msgstr "Logo pour le lanceur d’applications"
+
+#: inc/admin/ui/menu.php:234
+msgid "SHORTER IS BETTER"
+msgstr "LE PLUS COURT EST LE MIEUX"
+
+#: inc/admin/ui/menu.php:233
+msgid "Name of the application"
+msgstr "Nom de l’application"
+
+#: inc/admin/ui/menu.php:231
+msgid "Your application is almost ready!"
+msgstr "Votre application mobile est presque prête !"
+
+#: inc/admin/menu.php:49 inc/admin/menu.php:51 inc/admin/plugins.php:12
+#: inc/admin/ui/menu.php:358 inc/admin/ui/home.php:333
+msgid "Configuration"
+msgstr "Configuration"
+
+#: inc/admin/ui/cert.php:95
+msgid "Display the notification message"
+msgstr "Afficher le message de notification"
+
+#: inc/admin/ui/cert.php:95
+msgid "Open the linked page"
+msgstr "Ouvrir la page liée"
+
+#: inc/admin/ui/cert.php:91
+msgid "Action on notification click"
+msgstr "Action lors d’un clic sur une notification"
+
+#: inc/admin/ui/theme.php:507
+msgid "Custom JS [jQuery]"
+msgstr "JS personnalisé [jQuery]"
+
+#: inc/admin/ui/options.php:1442
+msgid "Custom CSS (only on website)"
+msgstr "CSS personnalisée (uniquement site)"
+
+#: inc/admin/ui/options.php:1429
+msgid "Custom CSS (only on app)"
+msgstr "CSS personnalisée (uniquement appli)"
+
+#: inc/admin/ui/auto.php:872
+msgid "Animate page load"
+msgstr "Animer le chargement de la page"
+
+#: inc/admin/ui/preview.php:181
+msgid "Open in a new tab"
+msgstr "Ouvrir dans un nouvel onglet"
+
+#: inc/admin/ui/preview.php:168
+msgid "Orientation"
+msgstr "Orientation"
+
+#: inc/admin/ui/preview.php:167
+msgid "Smartphone"
+msgstr "Smartphone"
+
+#: inc/admin/ui/preview.php:166
+msgid "Tablet"
+msgstr "Tablette"
+
+#: inc/admin/ui/preview.php:165
+msgid "Chromebook"
+msgstr "Chromebook"
+
+#: inc/admin/ui/auto.php:531 inc/admin/ui/auto.php:2017
+msgid "Cache only for offline"
+msgstr "Mettre en cache uniquement pour le hors connexion"
+
+#: inc/admin/ui/auto.php:529 inc/admin/ui/auto.php:2015
+msgid "Cache everything"
+msgstr "Tout mettre en cache"
+
+#: inc/admin/menu.php:46 inc/admin/ui/menu.php:354 inc/admin/ui/home.php:218
+msgid "Preview"
+msgstr "Aperçu"
+
+#: inc/api/read_enhanced.php:153
+msgid "Push notifications are disabled."
+msgstr "Les notifications push sont désactivées."
+
+#: inc/admin/ui/adserver.php:120 inc/admin/ui/adserver.php:206
+msgid "HTML Code"
+msgstr "Code HTML"
+
+#: inc/admin/talkus.php:38
+msgid "Spread the word"
+msgstr "Passez le mot"
+
+#: inc/admin/talkus.php:37
+msgid "You love WPMobile.App?"
+msgstr "Vous aimez WPMobile.App ?"
+
+#: inc/admin/ui/auto.php:754
+msgid "Always refresh the app content"
+msgstr "Toujours actualiser le contenu de l’application"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://wpmobile.app/"
+msgstr "https://wpmobile.app/fr/"
+
+#: themes/wpappninja-full/comments.php:22
+msgid "<span class=\"badge bg-red\">1</span> reaction"
+msgstr "<span class=\"badge bg-red\">1</span> réaction"
+
+#: themes/wpappninja-full/comments.php:20
+msgid "<span class=\"badge bg-red\">%1$s</span> reactions"
+msgstr "<span class=\"badge bg-red\">%1$s</span> réactions"
+
+#: themes/wpappninja/functions.php:34
+msgid "WPMobile.App (after content)"
+msgstr "WPAPP. NINJA (après le contenu)"
+
+#: themes/wpappninja/functions.php:23
+msgid "WPMobile.App (before content)"
+msgstr "WPAPP. NINJA (avant le contenu)"
+
+#: inc/admin/ui/options.php:1368
+msgid "WPMobile.App (best)"
+msgstr "WPMobile.App (le meilleur)"
+
+#. Author of the plugin
+#: inc/admin/ui/theme.php:335
+msgid "WPMobile.App"
+msgstr "WPMobile.App"
+
+#: inc/admin/import.php:336
+msgid "QRCode reader"
+msgstr "Lecteur de QRCode"
+
+#: inc/functions/shortcodes.php:400
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: inc/admin/ui/auto.php:651
+msgid "Show 3 posts by category"
+msgstr "Afficher 3 articles par catégorie"
+
+#: inc/admin/ui/auto.php:651
+msgid "List with all posts"
+msgstr "Liste avec tous les articles"
+
+#: inc/admin/ui/auto.php:647
+msgid "Home type"
+msgstr "Type de page d’accueil"
+
+#: themes/wpappninja-full/index.php:56 inc/functions/shortcodes.php:1035
+msgid "No result"
+msgstr "Aucun résultat"
+
+#: inc/functions/colors.php:278
+msgid "Left menu icon"
+msgstr "Icône du menu de gauche"
+
+#: inc/functions/colors.php:272
+msgid "Bottom menu icon color"
+msgstr "Couleur des icônes du menu bas"
+
+#: inc/functions/colors.php:270
+msgid "Bottom menu background"
+msgstr "Arrière-plan du menu bas"
+
+#: inc/admin/ui/auto.php:489 inc/admin/ui/auto.php:820
+#: inc/admin/ui/auto.php:1977
+msgid "Minimal role to view qrcode"
+msgstr "Rôle minimal pour voir les qrcodes"
+
+#: inc/admin/ui/auto.php:471 inc/admin/ui/auto.php:802
+#: inc/admin/ui/auto.php:1959
+msgid "Minimal role to view statistics"
+msgstr "Rôle minimal pour voir les statistiques"
+
+#: inc/admin/ui/auto.php:522 inc/admin/ui/auto.php:699
+#: inc/admin/ui/auto.php:706 inc/admin/ui/auto.php:2008
+msgid "Cache and speed"
+msgstr "Cache et performance"
+
+#: inc/admin/ui/auto.php:542 inc/admin/ui/auto.php:731
+#: inc/admin/ui/auto.php:2027
+msgid "Enable fastclick"
+msgstr "Activer Fastclick"
+
+#: inc/functions/shortcodes.php:1418
+msgid "Configure your app homepage"
+msgstr "Configurez votre page d’accueil"
+
+#: inc/admin/ui/options.php:1921
+msgid "User homepage"
+msgstr "Page d’accueil de l’utilisateur"
+
+#: inc/admin/ui/auto.php:660
+msgid "Category available to users"
+msgstr "Catégories à disposition des utilisateurs"
+
+#: inc/admin/ui/auto.php:642
+msgid "User Homepage"
+msgstr "Page d’accueil utilisateur"
+
+#: inc/functions/sdk2019.php:13 inc/stats/render.php:13
+msgid "QRCode Scanner"
+msgstr "QRCode scanner"
+
+#: inc/functions/sdk2019.php:26 inc/admin/ui/options.php:2953
+#: inc/stats/render.php:26
+msgid "Custom homepage"
+msgstr "Page d’accueil personnalisé"
+
+#: inc/admin/ui/home.php:14 inc/admin/ui/home.php:169
+msgid "Done! App auto configured"
+msgstr "Effectué ! Appli configurée automatiquement"
+
+#: inc/functions/colors.php:214
+msgid "After other post type"
+msgstr "Après les autres types"
+
+#: inc/functions/colors.php:213
+msgid "Before other post type"
+msgstr "Avant les autres types"
+
+#: inc/functions/colors.php:208
+msgid "After a WooCommerce page"
+msgstr "Après une page WooCommerce"
+
+#: inc/functions/colors.php:207
+msgid "Before a WooCommerce page"
+msgstr "Avant une page WooCommerce"
+
+#: inc/functions/colors.php:205
+msgid "After a page"
+msgstr "Après une page"
+
+#: inc/functions/colors.php:204
+msgid "Before a page"
+msgstr "Avant une page"
+
+#: inc/admin/ui/submenu.php:23
+msgid "Your application should not just display your site as in a web browser, <b>It's better to use the WPMobile.App theme.</b>"
+msgstr "Votre application ne doit pas seulement afficher votre site dans un navigateur web, <b>il est préférable d’utiliser le thème WPMobile.App.</b>"
+
+#: inc/admin/ui/submenu.php:76
+msgid "Automatic configuration"
+msgstr "Configuration automatique"
+
+#: inc/admin/ui/submenu.php:90
+msgid "If you continue, you will lose all previous settings"
+msgstr "Attention, vous perdrez tous vos paramètres"
+
+#: inc/admin/import.php:479
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/admin/upgrader.php:132
+msgid "Offers"
+msgstr "Offres"
+
+#: inc/admin/ui/theme.php:536
+msgid "You can test on a real device"
+msgstr "Vous pouvez tester sur un périphérique réel"
+
+#: inc/admin/ui/options.php:2220
+msgid "Assigned to a role (optional)"
+msgstr "Assigné à (optionnel)"
+
+#: inc/admin/ui/options.php:2215
+msgid "Location"
+msgstr "Emplacement"
+
+#: inc/admin/ui/options.php:2131
+msgid "Restricted to"
+msgstr "Limité à"
+
+#: inc/admin/ui/cert.php:264
+msgid "Follow <a href=\"https://support.wpmobile.app/article/248-how-to-get-an-api-key-for-android-notifications?lang=en\" target=\"_blank\">this guide</a> to get the Google API Key"
+msgstr "Suivez le <a href=\"https://support.wpmobile.app/article/248-how-to-get-an-api-key-for-android-notifications?lang=fr\" target=\"_blank\">guide</a> pour obtenir une clé API Google"
+
+#: inc/admin/ui/home.php:100 inc/admin/ui/submenu.php:67
+msgid "Name and logo"
+msgstr "Nom et logo"
+
+#: inc/admin/ui/submenu.php:36
+msgid "2 ways to translate your app"
+msgstr "2 façons de traduire votre application"
+
+#: inc/admin/ui/submenu.php:32
+msgid "You can modify with CSS each elements of the app"
+msgstr "Vous pouvez modifier en CSS chaque élément de l’application"
+
+#: inc/admin/ui/submenu.php:28
+msgid "Learn how to play with the app elements"
+msgstr "Apprenez à jouer avec les éléments de l’app"
+
+#: inc/admin/ui/submenu.php:17
+msgid "You can customize your theme for the app"
+msgstr "Vous pouvez customiser votre thème pour l’appli"
+
+#: inc/admin/ui/submenu.php:13
+msgid "You can do a lot of things with the menu"
+msgstr "Vous pouvez faire beaucoup de choses avec le menu"
+
+#: inc/admin/ui/submenu.php:9
+msgid "The logo is an important step for the publication"
+msgstr "Le logo est une étape importante pour la publication"
+
+#: inc/admin/ui/push.php:273
+msgid "You can't send notification until the app is published"
+msgstr "Votre app n’est pas encore publiée, vous ne pouvez pas envoyer de notification"
+
+#: inc/admin/ui/pwa.php:117 inc/admin/ui/submenu.php:56
+#: inc/admin/ui/push.php:269 inc/admin/ui/adserver.php:102
+msgid "+ more"
+msgstr "En savoir plus"
+
+#: inc/admin/ui/pwa.php:110 inc/admin/ui/push.php:262
+#: inc/admin/ui/adserver.php:95
+msgid "Learn how to turn on advertising on the app"
+msgstr "Apprenez à afficher des annonces dans votre appli"
+
+#: inc/admin/ui/pwa.php:102 inc/admin/ui/adserver.php:87
+msgid "Learn how to send a notification when you publish"
+msgstr "Apprenez à envoyer une notification quand vous publiez"
+
+#: inc/admin/ui/options.php:2140 inc/admin/ui/options.php:2215
+msgid "Floating Action Bar"
+msgstr "Floating Action Bar"
+
+#: inc/admin/ui/options.php:2138 inc/admin/ui/options.php:2215
+msgid "Toolbar menu"
+msgstr "Barre de navigation"
+
+#: inc/admin/ui/pwa.php:106 inc/admin/ui/push.php:258
+#: inc/admin/ui/adserver.php:91
+msgid "Progressive Web App is a free feature"
+msgstr "La Progressive Web App est une fonction gratuite"
+
+#: inc/admin/ui/pwa.php:205
+msgid "One per line"
+msgstr "Une par ligne"
+
+#: inc/admin/ui/pwa.php:204
+msgid "Pages to preload and cache"
+msgstr "Pages à précharger et mettre en cache"
+
+#: inc/admin/ui/pwa.php:195
+msgid "Select page"
+msgstr "Sélectionner une page"
+
+#: inc/admin/ui/menu.php:245 inc/admin/ui/pwa.php:174
+msgid "Main color"
+msgstr "Couleur principale"
+
+#: inc/functions/shortcodes.php:551
+msgid "Push settings"
+msgstr "Paramètres Push"
+
+#: themes/wpappninja-full/404.php:20
+msgid "Check your connection."
+msgstr "Vérifiez votre connexion internet."
+
+#: themes/wpappninja-full/404.php:18
+msgid "Sorry, this page is not available offline."
+msgstr "Désolé, cette page n’est pas disponible."
+
+#: inc/admin/ui/auto.php:451 inc/admin/ui/auto.php:785
+#: inc/admin/ui/auto.php:1939
+msgid "Minimal role to send notification"
+msgstr "Rôle minimal pour envoyer une notification"
+
+#: inc/admin/ui/cert.php:201
+msgid "You need to buy and publish your app before the iOS configuration."
+msgstr "Vous avez besoin d’acheter et de publier votre application avant la configuration iOS."
+
+#: inc/admin/ui/auto.php:920
+msgid "Slide to open the menu"
+msgstr "Glissez pour ouvrir le menu"
+
+#: inc/functions/menu.php:215
+msgid "Exit"
+msgstr "Quitter"
+
+#: inc/admin/ui/cert.php:206
+msgid "download here"
+msgstr "télécharger"
+
+#: inc/admin/ui/cert.php:206
+msgid "Certificate"
+msgstr "Certificat"
+
+#: inc/admin/ui/auto.php:555 inc/admin/ui/auto.php:742
+#: inc/admin/ui/auto.php:2038
+msgid "Improve the compatibility with cache plugin"
+msgstr "Améliorer la compatibilité avec les plugins de cache"
+
+#: inc/admin/ui/adserver.php:135
+msgid "Add an ad before and after the content"
+msgstr "Afficher une annonce avant et après le contenu"
+
+#: inc/api/read_enhanced.php:183
+msgid "Subscriptions"
+msgstr "Abonnements"
+
+#: inc/api/read_enhanced.php:154 inc/api/read_enhanced.php:178
+msgid "Enable push notifications"
+msgstr "Activer les notifications push"
+
+#: inc/api/read_enhanced.php:173 inc/functions/shortcodes.php:578
+#: inc/functions/shortcodes.php:1161
+msgid "Settings saved"
+msgstr "Réglages enregistrés"
+
+#: inc/admin/upgrader.php:132
+msgid "News"
+msgstr "Actualité"
+
+#: themes/wpappninja-full/comments.php:93
+msgid "Your reaction"
+msgstr "Votre réaction"
+
+#: themes/wpappninja/comments.php:90
+msgid "Comment"
+msgstr "Commentaire"
+
+#: inc/admin/ui/theme.php:378
+msgid "Old"
+msgstr "Ancien"
+
+#: inc/admin/ui/cert.php:225 inc/admin/ui/cert.php:284
+msgid "Missing"
+msgstr "Manquant"
+
+#: inc/admin/ui/cert.php:222
+msgid "Expired"
+msgstr "Expiré"
+
+#: inc/admin/ui/cert.php:217
+msgid "Valid until"
+msgstr "Valable jusqu’au"
+
+#: inc/admin/ui/options.php:2424
+msgid "WordPress menu"
+msgstr "Menu WordPress"
+
+#: inc/admin/ui/options.php:2396
+msgid "Import"
+msgstr "Importer"
+
+#: inc/admin/ui/theme.php:564 inc/admin/ui/preview.php:244
+msgid "You have to test on a real device"
+msgstr "Vous devez tester sur un périphérique réel"
+
+#: inc/admin/ui/home.php:104
+msgid "CSS and JavaScript"
+msgstr "CSS et JavaScript"
+
+#: inc/admin/ui/theme.php:362
+msgid "WordPress Theme (without UI)"
+msgstr "Thème WordPress (sans interface utilisateur)"
+
+#: inc/admin/ui/theme.php:351
+msgid "WordPress Theme"
+msgstr "Thème Wordpress"
+
+#: inc/admin/ui/theme.php:344
+msgid "Light (only text and image)"
+msgstr "Light (seulement texte et image)"
+
+#: inc/admin/ui/theme.php:228
+msgid "App theme"
+msgstr "Thème de l’app"
+
+#: inc/admin/ui/options.php:791
+msgid "Weglot"
+msgstr "Weglot"
+
+#: inc/admin/ui/options.php:736
+msgid "Add a language"
+msgstr "Ajouter une langue"
+
+#: inc/admin/ui/cert.php:103
+msgid "Show the box to send push on page editor"
+msgstr "Afficher la boite d’envoi des notification à la publication d’une page"
+
+#: inc/admin/ui/cert.php:79
+msgid "Comma separated category"
+msgstr "Catégorie séparés par des virgules"
+
+#: inc/admin/ui/publish.php:414
+msgid "Optimal size: 600x900 pixels"
+msgstr "Taille optimale : 600x900 pixels"
+
+#: inc/admin/ui/publish.php:414
+msgid "Launchscreen"
+msgstr "Image de lancement"
+
+#: inc/admin/ui/publish.php:400
+msgid "Logo background color"
+msgstr "Couleur d’arrière plan du logo"
+
+#: inc/admin/ui/publish.php:378
+msgid "Optimal size: 512x512 pixels"
+msgstr "Taille optimale : 512x512 pixels"
+
+#: themes/wpappninja-full/comments.php:55 themes/wpappninja/comments.php:52
+#: inc/admin/ui/pwa.php:141 inc/admin/ui/publish.php:361
+msgid "Name"
+msgstr "Nom"
+
+#: inc/admin/ui/home.php:269 inc/admin/ui/home.php:318
+msgid "BUY"
+msgstr "ACHETER"
+
+#: inc/admin/ui/home.php:264 inc/admin/ui/home.php:310
+msgid "Update and files"
+msgstr "Mise à jour et fichiers"
+
+#: inc/admin/ui/menu.php:249 inc/admin/ui/home.php:222
+msgid "Create my app"
+msgstr "Créer mon application"
+
+#: inc/admin/ui/adserver.php:280
+msgid "HTML ad"
+msgstr "Pub HTML"
+
+#: inc/admin/ui/adserver.php:118
+msgid "AdMob"
+msgstr "AdMob"
+
+#: inc/admin/ui/adserver.php:116
+msgid "AdBuddiz"
+msgstr "AdBuddiz"
+
+#: inc/admin/ui/options.php:1838 inc/admin/ui/options.php:1999
+msgid "Build the app menu with your theme"
+msgstr "Construisez le menu de l’application avec votre thème"
+
+#: inc/admin/ui/theme.php:481
+msgid "Custom JS [jQuery, framework7.io]"
+msgstr "JS personnalisé [jQuery, framework7.io]"
+
+#: inc/admin/menu.php:71 inc/admin/ui/theme.php:223 inc/admin/ui/submenu.php:69
+msgid "Theme"
+msgstr "Thème"
+
+#: inc/admin/ui/auto.php:1895
+msgid "Open all links on the same screen (not recommended)"
+msgstr "Ouvrir tous les liens sur le même écran (non recommandé)"
+
+#: inc/admin/ui/auto.php:1788
+msgid "Show more category"
+msgstr "Afficher plus de catégorie"
+
+#: inc/admin/ui/auto.php:1406
+msgid "Show date on list and post"
+msgstr "Afficher la date dans les listes et articles"
+
+#: inc/admin/ui/auto.php:1138 inc/admin/ui/auto.php:1365
+msgid "Use any image on the post as featured"
+msgstr "Utiliser n’importe quelle image comme image en avant"
+
+#: inc/admin/ui/auto.php:940
+msgid "Show the title of the list"
+msgstr "Afficher le titre de la liste"
+
+#: inc/admin/ui/auto.php:404 inc/admin/ui/auto.php:1199
+#: inc/admin/ui/auto.php:1860
+msgid "Links management"
+msgstr "Gestion des liens"
+
+#: inc/admin/ui/auto.php:1765
+msgid "Exclude by category"
+msgstr "Exclure par catégorie"
+
+#: inc/admin/ui/auto.php:1151 inc/admin/ui/auto.php:1695
+msgid "Similars posts"
+msgstr "Articles similaires"
+
+#: inc/admin/ui/auto.php:1624
+msgid "Show the title before content"
+msgstr "Afficher le titre avant le contenu"
+
+#: inc/admin/ui/auto.php:1610
+msgid "Show image on pages"
+msgstr "Image sur les pages"
+
+#: inc/admin/ui/auto.php:1591
+msgid "Show image on lists"
+msgstr "Image dans les listes"
+
+#: inc/admin/ui/auto.php:1440
+msgid "Item size"
+msgstr "Taille de l’élément"
+
+#: inc/admin/ui/auto.php:1420
+msgid "Show hour"
+msgstr "Afficher l’heure"
+
+#: inc/admin/ui/auto.php:1050 inc/admin/ui/auto.php:1498
+msgid "Exclude by tags"
+msgstr "Exclure certains articles par tags"
+
+#: inc/admin/ui/auto.php:1037 inc/admin/ui/auto.php:1485
+msgid "Exclude by direct tag name"
+msgstr "Exclure par nom de tag direct"
+
+#: inc/admin/ui/auto.php:509 inc/admin/ui/auto.php:838
+#: inc/admin/ui/auto.php:1997
+msgid "Show the download banner on the website"
+msgstr "Afficher la bannière de téléchargement sur le site Web"
+
+#: themes/wpappninja-full/comments.php:75 themes/wpappninja/comments.php:72
+msgid "Website"
+msgstr "Site internet"
+
+#: inc/admin/ui/theme.php:339 inc/admin/ui/theme.php:379
+msgid "Hybrid"
+msgstr "Hybride"
+
+#: inc/admin/ui/auto.php:907
+msgid "Pull to refresh"
+msgstr "Tirez pour actualiser"
+
+#: inc/admin/ui/auto.php:988
+msgid "Item number"
+msgstr "Nombre d’éléments"
+
+#: inc/admin/ui/auto.php:971
+msgid "Sort rule"
+msgstr "Règle de tri"
+
+#: inc/admin/ui/auto.php:946
+msgid "Order list by"
+msgstr "Classer par"
+
+#: inc/admin/ui/pwa.php:125
+msgid "Progressive Web App: ENABLED"
+msgstr "Progressive Web App: ACTIVÉ"
+
+#: inc/admin/ui/pwa.php:123
+msgid "Progressive Web App: DISABLED"
+msgstr "Progressive Web App: DÉSACTIVÉ"
+
+#: inc/admin/menu.php:70 inc/admin/ui/home.php:342
+msgid "Progressive Web App"
+msgstr "Progressive Web App"
+
+#: inc/admin/ui/options.php:2596
+msgid "Number of category to show"
+msgstr "Numéro de catégorie à afficher"
+
+#: inc/functions/menu.php:194 inc/functions/menu.php:204
+#: inc/functions/shortcodes.php:1112
+msgid "Scan code"
+msgstr "Scan code"
+
+#: inc/admin/ui/auto.php:863
+msgid "Use the website theme (not recommanded)"
+msgstr "Thème de site Web (non optimisé)"
+
+#: inc/functions/shortcodes.php:1161 inc/functions/shortcodes.php:1175
+#: inc/admin/import.php:326
+msgid "My home"
+msgstr "Mon application"
+
+#: inc/admin/ui/push.php:541 inc/admin/ui/push.php:554
+#: inc/admin/ui/push.php:580
+msgid "subscriber"
+msgid_plural "subscribers"
+msgstr[0] "abonné"
+msgstr[1] "Abonnés"
+
+#: inc/functions/colors.php:295
+msgid "List items background"
+msgstr "Couleurs d’arrière plan des éléments"
+
+#: inc/admin/ui/options.php:806
+msgid "Original language (2 letters code)"
+msgstr "Langue d’origine (code de 2 lettres)"
+
+#: inc/admin/ui/options.php:877 inc/admin/ui/options.php:959
+msgid "Url"
+msgstr "Url"
+
+#: inc/admin/ui/options.php:796 inc/admin/ui/options.php:799
+msgid "API Key"
+msgstr "Clé API"
+
+#: inc/admin/ui/options.php:776
+msgid "Automatic (with Weglot)"
+msgstr "Automatique (avec Weglot)"
+
+#: inc/admin/ui/options.php:773
+msgid "Manual"
+msgstr "Manuel"
+
+#: inc/admin/ui/options.php:772
+msgid "No translation"
+msgstr "Pas de traduction"
+
+#: inc/admin/ui/options.php:768
+msgid "Translation system"
+msgstr "Système de traduction"
+
+#: inc/admin/ui/options.php:696
+msgid "Auto detected users languages"
+msgstr "Langues utilisateurs détecté automatiquement"
+
+#: inc/admin/ui/submenu.php:72
+msgid "Translate"
+msgstr "Traduire"
+
+#: inc/admin/ui/auto.php:901
+msgid "Infinite scroll pages"
+msgstr "Défilement infini des pages"
+
+#: inc/functions/shortcodes.php:830 inc/admin/import.php:331
+msgid "Share"
+msgstr "Partager"
+
+#: inc/functions/colors.php:298 inc/functions/colors.php:300
+#: inc/functions/colors.php:302 inc/functions/colors.php:304
+#: inc/admin/ui/auto.php:438 inc/admin/ui/auto.php:612
+#: inc/admin/ui/auto.php:768 inc/admin/ui/auto.php:771
+#: inc/admin/ui/auto.php:1924
+msgid "Extra"
+msgstr "Extra"
+
+#: inc/functions/colors.php:281
+msgid "Floating round menu icon color"
+msgstr "Couleur des icônes du menu flottant rond"
+
+#: inc/functions/colors.php:280
+msgid "Floating menu item background"
+msgstr "Arrière plan du menu flottant"
+
+#: inc/functions/colors.php:259 inc/functions/colors.php:261
+#: inc/admin/ui/auto.php:768
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: inc/functions/colors.php:218 inc/functions/colors.php:219
+#: inc/functions/colors.php:221 inc/functions/colors.php:295
+#: inc/admin/ui/auto.php:937
+msgid "List"
+msgstr "Liste"
+
+#: inc/functions/colors.php:199 inc/functions/colors.php:200
+#: inc/functions/colors.php:264 inc/functions/colors.php:266
+#: inc/functions/colors.php:268
+msgid "Toolbar"
+msgstr "Toolbar"
+
+#: inc/functions/colors.php:197 inc/functions/colors.php:198
+#: inc/functions/colors.php:270 inc/functions/colors.php:272
+#: inc/functions/colors.php:274 inc/functions/colors.php:275
+#: inc/functions/colors.php:276 inc/functions/colors.php:277
+#: inc/functions/colors.php:278 inc/functions/colors.php:280
+#: inc/functions/colors.php:281 inc/admin/ui/options.php:1985
+#: inc/admin/ui/auto.php:916
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/admin/ui/options.php:2068
+msgid "+ ADD AN ITEM TO THE MENU"
+msgstr "+ AJOUTER UN ELEMENT AU MENU"
+
+#: inc/admin/ui/options.php:1499
+msgid "Remove"
+msgstr "Supprimer"
+
+#: inc/api/read_enhanced.php:202 inc/functions/shortcodes.php:644
+#: inc/functions/shortcodes.php:1239
+msgid "Save"
+msgstr "Enregistrer"
+
+#: inc/functions/colors.php:221
+msgid "Card content on lists"
+msgstr "Contenu des éléments sur les listes"
+
+#: inc/functions/colors.php:200
+msgid "Right of the navbar"
+msgstr "A droite de la barre de navigation"
+
+#: inc/functions/colors.php:199
+msgid "Middle of the navbar"
+msgstr "Milieu de la barre de navigation"
+
+#: inc/functions/colors.php:198
+msgid "After the left menu"
+msgstr "Après le menu de gauche"
+
+#: inc/functions/colors.php:197
+msgid "Before the left menu"
+msgstr "Avant le menu de gauche"
+
+#: inc/admin/ui/options.php:2136 inc/admin/ui/options.php:2215
+msgid "Left menu"
+msgstr "Menu latéral"
+
+#: inc/admin/metabox.php:143 inc/admin/ui/push.php:536
+msgid "Categorie"
+msgstr "Catégorie"
+
+#: themes/wpappninja-full/comments.php:115
+msgid "Send my reaction"
+msgstr "Envoyer ma réaction"
+
+#: themes/wpappninja-full/comments.php:102
+msgid "You must be <a href=\"%s\">logged in</a> to post a reaction."
+msgstr "Vous devez être <a href=\"%s\">connecté</a> pour poster une réaction."
+
+#: inc/functions/colors.php:304
+msgid "Font family"
+msgstr "Famille de police"
+
+#: inc/functions/colors.php:302
+msgid "Base text size"
+msgstr "Taille du texte de base"
+
+#: inc/functions/colors.php:300
+msgid "Search bar background"
+msgstr "Arrière-plan de la barre de recherche"
+
+#: inc/functions/colors.php:298
+msgid "Loading bar color"
+msgstr "Couleur de la barre de chargement"
+
+#: inc/functions/colors.php:293
+msgid "Badge background"
+msgstr "Couleur d’arrière plan du badge"
+
+#: inc/functions/colors.php:289
+msgid "Links color"
+msgstr "Couleur des liens"
+
+#: inc/functions/colors.php:285
+msgid "Content text color"
+msgstr "Couleur du texte du contenu"
+
+#: inc/functions/colors.php:284
+msgid "Title color"
+msgstr "Couleur du titre"
+
+#: inc/functions/colors.php:276
+msgid "Left menu icon color"
+msgstr "Couleur des icônes du menu de gauche"
+
+#: inc/functions/colors.php:275
+msgid "Left menu item background"
+msgstr "Arrière plan des éléments de menu"
+
+#: inc/functions/colors.php:274
+msgid "Left menu background"
+msgstr "Arrière-plan de la zone « Menu de gauche »"
+
+#: inc/functions/colors.php:268
+msgid "Navigation bar icon color"
+msgstr "Couleur des icône de la barre de navigation"
+
+#: inc/functions/colors.php:266
+msgid "Navigation bar background"
+msgstr "Arrière-plan de la barre de navigation"
+
+#: inc/functions/colors.php:264
+msgid "Status bar background"
+msgstr "Arrière-plan de la barre de statut"
+
+#: inc/functions/colors.php:261
+msgid "Main content background"
+msgstr "Arrière-plan du contenu principal"
+
+#: inc/functions/colors.php:259
+msgid "App background"
+msgstr "Arrière-plan de l’application"
+
+#: inc/admin/ui/auto.php:1095
+msgid "Hide"
+msgstr "Masquer"
+
+#: themes/wpappninja/functions.php:36
+msgid "Appears as the sidebar on bottom of the page"
+msgstr "Sidebar après le contenu"
+
+#: themes/wpappninja/functions.php:25
+msgid "Appears as the sidebar on top of the page"
+msgstr "Sidebar avant le contenu"
+
+#: themes/wpappninja-full/comments.php:108 themes/wpappninja/comments.php:105
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "Vous êtes connecté(e) en tant que <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\">Vous déconnecter ?</a>"
+
+#: themes/wpappninja/comments.php:99
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Vous devez vous <a href=\"%s\">connecter</a> pour réagir."
+
+#: themes/wpappninja-full/comments.php:45 themes/wpappninja/comments.php:42
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: themes/wpappninja/comments.php:20
+msgctxt "wpappninja"
+msgid "<span class=\"badge bg-red\">1</span> reaction"
+msgid_plural "<span class=\"badge bg-wpappninja\">%1$s</span> reactions"
+msgstr[0] "<span class=\"badge bg-red\">1</span> réaction"
+msgstr[1] "<span class=\"badge bg-wpappninja\">%1$s</span> réactions"
+
+#: themes/wpappninja-full/comments.php:11 themes/wpappninja/comments.php:12
+msgid "<span class=\"badge bg-red\">0</span> reaction"
+msgstr "<span class=\"badge bg-red\">0</span> réaction"
+
+#: inc/admin/ui/options.php:1370 inc/admin/ui/options.php:1489
+msgid "Website theme (not app friendly)"
+msgstr "Thème de site Web (non optimisé)"
+
+#: inc/admin/ui/options.php:1369 inc/admin/ui/options.php:1488
+msgid "Simple (text only)"
+msgstr "Simple (texte seulement)"
+
+#: inc/admin/import.php:341 inc/admin/import.php:448 inc/admin/import.php:542
+#: inc/admin/ui/options.php:2946 inc/admin/ui/options.php:2992
+msgid "Push config"
+msgstr "Notifications"
+
+#: inc/admin/ui/options.php:2633 inc/admin/ui/auto.php:1813
+msgid "Relevance"
+msgstr "Pertinence"
+
+#: inc/admin/ui/options.php:1615 inc/admin/ui/options.php:2660
+#: inc/admin/ui/auto.php:978 inc/admin/ui/auto.php:1580
+#: inc/admin/ui/auto.php:1847
+msgid "Descending order from highest to lowest values"
+msgstr "Par ordre décroissant"
+
+#: inc/admin/ui/options.php:1613 inc/admin/ui/options.php:2658
+#: inc/admin/ui/auto.php:976 inc/admin/ui/auto.php:1578
+#: inc/admin/ui/auto.php:1845
+msgid "Ascending order from lowest to highest values"
+msgstr "Par ordre croissant"
+
+#: inc/admin/ui/options.php:1608 inc/admin/ui/options.php:2654
+#: inc/admin/ui/auto.php:1570 inc/admin/ui/auto.php:1839
+msgid "Order"
+msgstr "Ordre"
+
+#: inc/admin/ui/options.php:1600 inc/admin/ui/options.php:2646
+#: inc/admin/ui/auto.php:964 inc/admin/ui/auto.php:1556
+#: inc/admin/ui/auto.php:1826
+msgid "No order"
+msgstr "Ne pas classer"
+
+#: inc/admin/ui/options.php:1597 inc/admin/ui/options.php:2643
+#: inc/admin/ui/auto.php:961 inc/admin/ui/auto.php:1553
+#: inc/admin/ui/auto.php:1823
+msgid "Random"
+msgstr "Au hasard"
+
+#: inc/admin/ui/options.php:1595 inc/admin/ui/options.php:2641
+#: inc/admin/ui/auto.php:959 inc/admin/ui/auto.php:1551
+#: inc/admin/ui/auto.php:1821
+msgid "Last modified date"
+msgstr "Date de la dernière modification"
+
+#: inc/admin/ui/options.php:1589 inc/admin/ui/options.php:2635
+#: inc/admin/ui/auto.php:953 inc/admin/ui/auto.php:1545
+#: inc/admin/ui/auto.php:1815
+msgid "Comment count"
+msgstr "Nombre de commentaires"
+
+#: inc/admin/ui/options.php:1582 inc/admin/ui/options.php:2627
+#: inc/admin/ui/auto.php:1535 inc/admin/ui/auto.php:1805
+msgid "Order by"
+msgstr "Classer par"
+
+#: inc/admin/ui/home.php:101 inc/admin/ui/submenu.php:68
+msgid "Homepage and menu"
+msgstr "Page d’accueil et menu"
+
+#: inc/admin/ui/home.php:66 inc/admin/ui/home.php:83
+msgid "manage"
+msgstr "gérer"
+
+#: inc/admin/import.php:346 inc/admin/import.php:439 inc/admin/import.php:535
+#: inc/admin/ui/options.php:2939 inc/admin/ui/options.php:2985
+msgid "Notification history"
+msgstr "Historique des notifications"
+
+#: inc/admin/ui/options.php:1090 inc/admin/ui/cert.php:195
+msgid "iOS"
+msgstr "iOS"
+
+#: inc/admin/ui/options.php:1090 inc/admin/ui/cert.php:252
+msgid "Android"
+msgstr "Android"
+
+#: inc/admin/ui/options.php:1090
+msgid "Android and iOS"
+msgstr "Android et iOS"
+
+#: inc/admin/ui/options.php:1089
+msgid "Display the smart banner on"
+msgstr "Afficher la bannière sur"
+
+#: inc/admin/ui/options.php:1648
+msgid "Hide image on pages?"
+msgstr "Masquer les images sur les pages ?"
+
+#: inc/admin/ui/options.php:1643
+msgid "Hide image on lists?"
+msgstr "Masquer les images sur les listes ?"
+
+#: inc/admin/ui/menu.php:353
+msgid "Dashboard"
+msgstr "Tableau de Bord"
+
+#: inc/admin/ui/menu.php:325 inc/admin/ui/home.php:323
+msgid "UPDATE"
+msgstr "MISE À JOUR"
+
+#: inc/admin/menu.php:69
+msgid "Update"
+msgstr "Mettre à jour"
+
+#: inc/admin/ui/options.php:2364
+msgid "Menu title (ios only)"
+msgstr "Titre du menu (ios uniquement)"
+
+#: inc/admin/ui/cert.php:339
+msgid "Notification icon"
+msgstr "Icône de notification"
+
+#: inc/admin/ui/options.php:2541
+msgid "Direct tag name"
+msgstr "Nom d’étiquette direct"
+
+#: inc/admin/ui/options.php:1897
+msgid "SELECT HOMEPAGE"
+msgstr "CHANGER DE PAGE D’ACCUEIL"
+
+#: inc/admin/ui/qrcode.php:45
+msgid "In-app QR Code scanner: ENABLED"
+msgstr "Lecteur de code QR dans l’application: ACTIVE"
+
+#: inc/admin/ui/qrcode.php:43
+msgid "In-app QR Code scanner: DISABLED"
+msgstr "Lecteur de code QR dans l’application: DESACTIVE"
+
+#: inc/admin/ui/qrcode.php:40
+msgid "New QR Code"
+msgstr "Nouveau Code QR"
+
+#: inc/admin/ui/push.php:531
+msgid "Add link"
+msgstr "Ajouter un lien"
+
+#: inc/admin/ui/push.php:285
+msgid "+ New notification"
+msgstr "+ Nouvelle notification"
+
+#: inc/admin/ui/options.php:1549
+msgid "Open all links on the same screen (faster)"
+msgstr "Ouvrir tous les liens sur le même écran (plus rapide)"
+
+#: inc/admin/ui/theme.php:395
+msgid "Colors"
+msgstr "Couleurs"
+
+#: inc/admin/ui/options.php:1587 inc/admin/ui/options.php:2631
+#: inc/admin/ui/auto.php:951 inc/admin/ui/auto.php:1543
+#: inc/admin/ui/auto.php:1811
+msgid "Date"
+msgstr "Date"
+
+#: inc/common/admin-bar.php:67 inc/admin/menu.php:53 inc/admin/ui/pwa.php:136
+#: inc/admin/ui/submenu.php:71
+msgid "Design"
+msgstr "Design"
+
+#: inc/common/admin-bar.php:93 inc/admin/menu.php:58 inc/admin/menu.php:61
+#: inc/admin/ui/menu.php:365 inc/admin/ui/home.php:338
+msgid "QR Code"
+msgstr "Code QR"
+
+#: inc/admin/ui/options.php:1809 inc/admin/ui/auto.php:446
+#: inc/admin/ui/auto.php:780 inc/admin/ui/auto.php:1934
+msgid "Subscriber"
+msgstr "Abonné"
+
+#: inc/admin/ui/options.php:1591 inc/admin/ui/options.php:1808
+#: inc/admin/ui/options.php:2637 inc/admin/ui/auto.php:445
+#: inc/admin/ui/auto.php:779 inc/admin/ui/auto.php:955
+#: inc/admin/ui/auto.php:1547 inc/admin/ui/auto.php:1817
+#: inc/admin/ui/auto.php:1933
+msgid "Author"
+msgstr "Auteur"
+
+#: inc/admin/ui/options.php:1807 inc/admin/ui/auto.php:444
+#: inc/admin/ui/auto.php:778 inc/admin/ui/auto.php:1932
+msgid "Editor"
+msgstr "Editeur"
+
+#: inc/admin/ui/options.php:1806 inc/admin/ui/auto.php:443
+#: inc/admin/ui/auto.php:777 inc/admin/ui/auto.php:1931
+msgid "Administrator"
+msgstr "Administrateur"
+
+#: inc/admin/ui/options.php:1802
+msgid "Level"
+msgstr "Niveau"
+
+#: inc/admin/ui/options.php:1799
+msgid "You change the level of right needed to access the statistics, notifications and settings panel."
+msgstr "Vous modifiez le niveau de droit nécessaire pour accéder aux statistiques, notifications et panneau Paramètres."
+
+#: inc/admin/ui/options.php:1798
+msgid "Access right"
+msgstr "Droit d’accès"
+
+#: inc/admin/ui/options.php:347
+msgid "Access right of the plugin"
+msgstr "Droit d’accès du plugin"
+
+#: inc/admin/ui/options.php:1461
+msgid "Page url"
+msgstr "URL de la page"
+
+#: inc/admin/ui/options.php:1457
+msgid "You can use a different mode for some pages"
+msgstr "Vous pouvez utiliser un mode différent pour certaines pages"
+
+#: inc/admin/ui/options.php:1456
+msgid "Custom rules"
+msgstr "Règles personnalisées"
+
+#: inc/admin/ui/options.php:2585 inc/admin/ui/auto.php:1095
+msgid "Show"
+msgstr "Afficher"
+
+#: inc/admin/ui/options.php:2582 inc/admin/ui/auto.php:1023
+#: inc/admin/ui/auto.php:1472
+msgid "Show password protected posts"
+msgstr "Afficher les pages protégées par mot de passe"
+
+#: inc/admin/ui/options.php:1922 inc/admin/ui/menu.php:302
+msgid "CONFIGURE"
+msgstr "CONFIGURER"
+
+#: inc/admin/ui/menu.php:302
+msgid "Push notifications are not yet fully configured"
+msgstr "Les notifications ne sont pas encore configurées"
+
+#: inc/admin/ui/options.php:1528 inc/admin/ui/auto.php:1310
+msgid "Sharing system"
+msgstr "Système de partage"
+
+#: inc/admin/ui/options.php:1540
+msgid "Links"
+msgstr "Liens"
+
+#: inc/admin/ui/options.php:285 inc/admin/ui/options.php:1350
+msgid "Main content"
+msgstr "Contenu principal"
+
+#: inc/admin/ui/options.php:354
+msgid "All changes are instantly reflected on the app"
+msgstr "Les modifications sont répercutées instantanément sur l’appli"
+
+#: inc/admin/ui/options.php:1659
+msgid "Show the title before content?"
+msgstr "Afficher le titre avant le contenu ?"
+
+#: themes/wpappninja-full/404.php:25 themes/wpappninja/404.php:11
+msgid "Sorry, this page does not exist."
+msgstr "Désolé, cette page n’existe pas."
+
+#: inc/stats/render.php:52
+msgid "Deleted notification"
+msgstr "Notification supprimée"
+
+#: inc/admin/upgrader.php:81
+msgid "<a href=\"%s\">dismiss</a>"
+msgstr "<a href=\"%1$s\">cacher</a>"
+
+#: inc/admin/upgrader.php:81
+msgid "<b>WPMobile.App</b> We've made major improvements on the content render <a target=\"_blank\" style=\"%s\" href=\"%s\">Test now my enhanced app</a>"
+msgstr "<b>WPAPP. NINJA</b> Nous avons apporté des améliorations importantes <a target=\"_blank\" style=\"%s\" href=\"%s\">Tester le rendu amélioré</a>"
+
+#: inc/admin/ui/options.php:338
+msgid "I'm a web developer"
+msgstr "Je suis un développeur web"
+
+#: inc/admin/ui/options.php:1544 inc/admin/ui/auto.php:411
+#: inc/admin/ui/auto.php:1206 inc/admin/ui/auto.php:1867
+msgid "Open all links in the internal browser"
+msgstr "Ouvrir tous les liens dans un navigateur interne"
+
+#: inc/api/json.php:711 inc/api/read_enhanced.php:84
+msgid "Read"
+msgstr "Lecture"
+
+#: inc/admin/ui/stats.php:132
+msgid "You can't have statistics with the free plan"
+msgstr "Vous ne pouvez pas avoir de statistique avec le pack gratuit"
+
+#: inc/admin/ui/options.php:1374 inc/admin/ui/options.php:1493
+msgid "Optimal"
+msgstr "Optimal"
+
+#: inc/admin/ui/options.php:1365
+msgid "Display type"
+msgstr "Type d’affichage"
+
+#: inc/admin/ui/menu.php:311
+msgid "On December 15, 2016 notifications and statistics will no longer be available with the free package"
+msgstr "Le 15 décembre 2016, les notifications et les statistiques ne seront plus disponibles avec le pack gratuit"
+
+#: inc/admin/ui/adserver.php:371
+msgid "End date:"
+msgstr "Date de fin :"
+
+#: inc/admin/ui/adserver.php:370
+msgid "Start date:"
+msgstr "Date de début :"
+
+#: inc/admin/ui/adserver.php:368
+msgid "Lang:"
+msgstr "Langue:"
+
+#: inc/admin/ui/adserver.php:366
+msgid "Clicks:"
+msgstr "Clics :"
+
+#: inc/admin/ui/adserver.php:366
+msgid "Displays:"
+msgstr "Affichages :"
+
+#: inc/admin/ui/adserver.php:363
+msgid "ENDED"
+msgstr "TERMINEE"
+
+#: inc/admin/ui/adserver.php:361
+msgid "PLANNED"
+msgstr "PLANIFIEE"
+
+#: inc/admin/ui/adserver.php:359
+msgid "LIVE"
+msgstr "EN COURS"
+
+#: inc/admin/ui/adserver.php:335
+msgid "clicks"
+msgstr "clics"
+
+#: inc/admin/ui/adserver.php:335
+msgid "displays"
+msgstr "affichages"
+
+#: inc/admin/ui/adserver.php:335
+msgid "ads"
+msgstr "publicités"
+
+#: inc/admin/ui/adserver.php:233 inc/admin/ui/adserver.php:326
+msgid "Submit"
+msgstr "Envoyer"
+
+#: inc/admin/ui/adserver.php:319
+msgid "End date"
+msgstr "Date de fin"
+
+#: inc/admin/ui/adserver.php:314
+msgid "Start date"
+msgstr "Date de début"
+
+#: inc/admin/ui/pwa.php:154 inc/admin/ui/publish.php:378
+#: inc/admin/ui/adserver.php:298
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/admin/ui/push.php:528 inc/admin/ui/adserver.php:295
+msgid "Link"
+msgstr "Lien"
+
+#: inc/admin/ui/adserver.php:292
+msgid "Text"
+msgstr "Texte"
+
+#: inc/admin/ui/adserver.php:288
+msgid "The ad"
+msgstr "La publicité"
+
+#: inc/admin/ui/adserver.php:283
+msgid "Color of the title"
+msgstr "Couleur du titre"
+
+#: inc/admin/ui/adserver.php:111
+msgid "New ad"
+msgstr "Nouvelle publicité"
+
+#: inc/admin/ui/adserver.php:107
+msgid "You can't use or modify the adserver without a PREMIUM pack"
+msgstr "Vous ne pouvez pas utiliser ou modifier le gestionnaire de publicités sans un pack PREMIUM"
+
+#: inc/common/admin-bar.php:101 inc/admin/menu.php:59 inc/admin/menu.php:62
+msgid "Adserver"
+msgstr "Gestionnaire de publicités"
+
+#: inc/admin/ui/publish.php:350
+msgid "Delete and unpublish"
+msgstr "Supprimer et dépublier"
+
+#: inc/admin/ui/publish.php:350
+msgid "Buy an update"
+msgstr "Acheter une mise à jour"
+
+#: inc/admin/ui/publish.php:289
+msgid "Automatically create my menu"
+msgstr "Créer automatiquement mon menu"
+
+#: inc/admin/ui/auto.php:1433
+msgid "Lists"
+msgstr "Listes"
+
+#: inc/admin/ui/options.php:1430 inc/admin/ui/options.php:1443
+msgid "You can use CSS to customize the content"
+msgstr "Vous pouvez utiliser du CSS pour personnaliser le contenu"
+
+#: inc/admin/ui/options.php:1414
+msgid "Only on some page?"
+msgstr "Uniquement sur certaines pages ?"
+
+#: inc/functions/shortcodes.php:1417 inc/admin/ui/publish.php:287
+msgid "Hello!"
+msgstr "Bonjour !"
+
+#: inc/admin/ui/options.php:2493
+msgid "Leave only `category` if you do not know what you are doing"
+msgstr "Laissez seulement `category` si vous ne savez pas ce que vous faites"
+
+#: inc/admin/ui/options.php:2492 inc/admin/ui/options.php:2496
+msgid "Category type"
+msgstr "Type de catégorie"
+
+#: inc/admin/ui/submenu.php:73
+msgid "Others"
+msgstr "Autres"
+
+#: inc/admin/ui/promote.php:40
+msgid "Your app is not yet live on stores, you can't promote it"
+msgstr "Votre application n’est pas encore publiée sur les stores, vous ne pouvez pas la promouvoir"
+
+#: inc/functions/banner.php:130 inc/admin/ui/options.php:1078
+#: inc/admin/ui/promote.php:152
+msgid "VIEW"
+msgstr "VOIR"
+
+#: inc/functions/banner.php:47 inc/admin/ui/options.php:1075
+#: inc/admin/ui/promote.php:149
+msgid "In App Store"
+msgstr "Sur l’App Store"
+
+#: inc/functions/banner.php:43
+msgid "In Google Play"
+msgstr "Sur Google Play"
+
+#: inc/admin/ui/promote.php:43 inc/admin/ui/push.php:285
+#: inc/admin/ui/adserver.php:112
+msgid "settings"
+msgstr "réglages"
+
+#: inc/admin/ui/publish.php:356
+msgid "Any change on this page <u>after the first publication</u> will be billed 49€.<br/><b>Take your time and make sure everything is ok.</b>"
+msgstr "Tout changement sur cette page <u>après la première publication</u> nécessitera une mise à jour de votre application (49€ HT).<br/><b>Prenez votre temps et soyez sûr que tout est ok.</b>"
+
+#: inc/admin/ui/publish.php:324
+msgid "Your app theme"
+msgstr "Votre thème"
+
+#: inc/admin/ui/options.php:604 inc/admin/ui/cert.php:75
+msgid "General"
+msgstr "Général"
+
+#: inc/admin/ui/options.php:325
+msgid "Plugins"
+msgstr "Extensions"
+
+#: inc/admin/ui/options.php:257 inc/admin/ui/options.php:258
+msgid "Home page and menu"
+msgstr "Page d’accueil et menu"
+
+#: inc/functions/check.php:264
+msgid "Allowed on your plan:"
+msgstr "Autorisés avec votre plan :"
+
+#: inc/functions/check.php:264 inc/admin/ui/home.php:230
+msgid "Downloads:"
+msgstr "Téléchargements :"
+
+#: inc/admin/ui/home.php:203
+msgid "unlimited"
+msgstr "illimités"
+
+#: inc/admin/ui/menu.php:325
+msgid "Your app need to be updated on stores"
+msgstr "Votre application a besoin d’être mise à jour sur les stores"
+
+#: inc/admin/menu.php:66 inc/admin/ui/home.php:346
+msgid "Publication"
+msgstr "Publication"
+
+#: inc/admin/menu.php:65 inc/admin/ui/home.php:345
+msgid "Promote"
+msgstr "Promouvoir"
+
+#: inc/admin/ui/stats.php:143
+msgid "results"
+msgstr "résultats"
+
+#: inc/admin/ui/home.php:253 inc/admin/ui/home.php:297
+msgid "downloads"
+msgstr "téléchargements"
+
+#: inc/functions/check.php:264 inc/admin/ui/menu.php:311
+#: inc/admin/ui/home.php:230 inc/admin/ui/stats.php:132
+#: inc/admin/ui/adserver.php:107
+msgid "UPDATE MY PLAN"
+msgstr "METTRE A JOUR MON OFFRE"
+
+#: inc/admin/ui/options.php:527 inc/admin/ui/cert.php:321
+msgid "Sender ID"
+msgstr "Sender ID"
+
+#: inc/admin/ui/options.php:523 inc/admin/ui/cert.php:297
+msgid "Server API Key"
+msgstr "Server API Key"
+
+#: inc/admin/ui/options.php:520
+msgid "Follow the <b><a href=\"https://wpmobile.app/en/send-push-notifications/\" target=\"_blank\">quick guide</a></b> to get the Google API Key"
+msgstr "Suivez le <b><a href=\"https://wpmobile.app/notif-push/\"  target=\"_blank\">guide rapide</a></b> pour obtenir une clé API Google"
+
+#: inc/admin/ui/options.php:1677
+msgid "Show date on list/post?"
+msgstr "Afficher la date dans la liste/sur les articles ?"
+
+#: inc/admin/ui/options.php:1532 inc/admin/ui/auto.php:1742
+#: inc/admin/ui/auto.php:1749
+msgid "Search engine"
+msgstr "Moteur de recherche"
+
+#: inc/admin/menu.php:59 inc/admin/menu.php:62 inc/admin/ui/menu.php:366
+#: inc/admin/ui/home.php:339
+msgid "Advertising"
+msgstr "Publicité"
+
+#: inc/admin/ui/stats.php:231
+msgid "Block disposition"
+msgstr "Disposition des blocs"
+
+#: inc/admin/ui/stats.php:222
+msgid "All languages included?"
+msgstr "Inclure toutes les langues ?"
+
+#: inc/admin/ui/stats.php:215
+msgid "On all platform?"
+msgstr "Sur toutes les plateformes ?"
+
+#: inc/admin/ui/stats.php:207
+msgid "How many maximum results?"
+msgstr "Combien de résultats au maximum ?"
+
+#: inc/admin/ui/stats.php:199
+msgid "How many days?"
+msgstr "Combien de jours ?"
+
+#: inc/common/admin-bar.php:52
+msgid "My app"
+msgstr "Mon application"
+
+#: inc/stats/render.php:71 inc/stats/render.php:108
+msgid "install"
+msgstr "installation"
+
+#: inc/stats/display.php:99
+msgid "Installations"
+msgstr "Installations"
+
+#: inc/stats/display.php:95
+msgid "Chart"
+msgstr "Graphique"
+
+#: inc/stats/display.php:91
+msgid "Timeline"
+msgstr "Historique"
+
+#: inc/stats/render.php:105
+msgid "search"
+msgstr "recherche"
+
+#: inc/stats/render.php:102
+msgid "form"
+msgstr "formulaire"
+
+#: inc/stats/render.php:99
+msgid "recent post"
+msgstr "articles récents"
+
+#: inc/stats/render.php:96
+msgid "category"
+msgstr "catégorie"
+
+#: inc/stats/render.php:90
+msgid "comment"
+msgstr "commentaire"
+
+#: inc/admin/ui/stats.php:143
+msgid "days"
+msgstr "jours"
+
+#: inc/admin/ui/options.php:688 inc/stats/display.php:135
+msgid "Languages"
+msgstr "Langues"
+
+#: inc/stats/display.php:131 inc/stats/display.php:511
+msgid "Country"
+msgstr "Pays"
+
+#: inc/stats/display.php:483
+msgid "Continent"
+msgstr "Continent"
+
+#: inc/stats/display.php:127
+msgid "Continents"
+msgstr "Continents"
+
+#: inc/stats/display.php:123
+msgid "Hours"
+msgstr "Heures"
+
+#: inc/stats/display.php:416
+msgid "Platform"
+msgstr "Plateforme"
+
+#: inc/stats/display.php:119
+msgid "Platforms"
+msgstr "Plateformes"
+
+#: inc/stats/display.php:379
+msgid "User"
+msgstr "Utilisateur"
+
+#: inc/admin/ui/push.php:596 inc/stats/display.php:115
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: inc/stats/display.php:260
+msgid "Open"
+msgstr "Ouverture"
+
+#: inc/stats/display.php:259
+msgid "Dispatch"
+msgstr "Envoi"
+
+#: inc/stats/display.php:258
+msgid "Push"
+msgstr "Notification"
+
+#: inc/stats/display.php:230 inc/stats/display.php:352
+msgid "Action"
+msgstr "Action"
+
+#: inc/stats/display.php:103
+msgid "Actions"
+msgstr "Actions"
+
+#: inc/stats/render.php:311
+msgid "By day"
+msgstr "Par jour"
+
+#: inc/stats/render.php:311
+msgid "App activity"
+msgstr "Activité de l’application"
+
+#: inc/functions/shortcodes.php:661
+msgid "Search"
+msgstr "Recherche"
+
+#: inc/admin/metabox.php:146 inc/admin/ui/stats.php:224
+#: inc/admin/ui/push.php:542
+msgid "All"
+msgstr "Tout"
+
+#: inc/admin/ui/stats.php:211
+msgid "result"
+msgid_plural "results"
+msgstr[0] "résultat"
+msgstr[1] "résultats"
+
+#: inc/admin/ui/stats.php:203
+msgid "day"
+msgid_plural "days"
+msgstr[0] "jour"
+msgstr[1] "jours"
+
+#: inc/common/admin-bar.php:75 inc/admin/menu.php:54 inc/admin/ui/menu.php:361
+#: inc/admin/ui/home.php:334
+msgid "Statistics"
+msgstr "Statistiques"
+
+#: inc/admin/ui/options.php:441
+msgid "Background color for iOS logo (if transparency on logo)"
+msgstr "Couleur de fond pour le logo iOS (si il y a de la transparence sur le logo)"
+
+#: inc/admin/ui/options.php:502 inc/admin/ui/options.php:537
+#: inc/admin/ui/cert.php:386
+msgid "Send a welcome notification"
+msgstr "Envoyer une notification de bienvenue"
+
+#: inc/admin/ui/options.php:499
+msgid "Go on the language section to configure it."
+msgstr "Allez dans la section des langues pour le configurer."
+
+#: inc/admin/ui/options.php:499 inc/admin/ui/options.php:534
+msgid "You can send a welcome notification on the first app launch."
+msgstr "Vous pouvez envoyer une notification de bienvenue lors du premier lancement de l’application."
+
+#: inc/admin/ui/options.php:498 inc/admin/ui/options.php:533
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: inc/admin/ui/options.php:365
+msgid "UPDATE NOW ON STORES FOR"
+msgstr "METTRE A JOUR SUR LES STORES POUR"
+
+#: inc/admin/ui/options.php:367
+msgid "PUBLISH ON STORES FOR"
+msgstr "PUBLIER SUR LES STORES POUR"
+
+#: inc/admin/ui/options.php:369 inc/admin/ui/publish.php:303
+msgid "Your app"
+msgstr "Votre application"
+
+#: inc/admin/ui/options.php:379 inc/admin/ui/publish.php:313
+msgid "Support"
+msgstr "Support"
+
+#: inc/admin/ui/options.php:391 inc/admin/ui/options.php:445
+msgid "Custom theme"
+msgstr "Thème personnalisé"
+
+#: inc/admin/ui/options.php:384 inc/admin/ui/publish.php:318
+msgid "Keywords:"
+msgstr "Mots clés&nbsp;:"
+
+#: inc/admin/ui/options.php:384 inc/admin/ui/publish.php:318
+msgid "Category:"
+msgstr "Catégorie&nbsp;:"
+
+#: inc/admin/ui/options.php:380 inc/admin/ui/publish.php:314
+msgid "Privacy policy"
+msgstr "Politique de confidentialité"
+
+#: inc/admin/ui/options.php:398 inc/admin/ui/publish.php:330
+msgid "Contact info"
+msgstr "Informations de contact"
+
+#: themes/wpappninja-full/comments.php:65 themes/wpappninja/comments.php:62
+#: inc/functions/shortcodes.php:317 inc/functions/shortcodes.php:367
+msgid "Email"
+msgstr "Adresse de messagerie"
+
+#: inc/admin/ui/options.php:429
+msgid "App title"
+msgstr "Titre de l’application"
+
+#: inc/admin/ui/options.php:431
+msgid "Blog url"
+msgstr "Url du site"
+
+#: inc/admin/ui/options.php:1554 inc/admin/ui/auto.php:1909
+msgid "Open in browser menu option (Android only)"
+msgstr "Option ’Ouvrir dans un navigateur’ du menu (seulement Android)"
+
+#: inc/admin/ui/options.php:1166
+msgid "Package"
+msgstr "Package"
+
+#: inc/admin/ui/options.php:1696 inc/admin/ui/auto.php:1652
+msgid "Show date before post"
+msgstr "Afficher la date avant les articles"
+
+#: inc/admin/ui/options.php:1692 inc/admin/ui/auto.php:1638
+msgid "Show author name and avatar before post"
+msgstr "Afficher le nom de l’auteur et son avatar avant les articles"
+
+#: inc/admin/ui/options.php:1638
+msgid "Use any image on the post as featured?"
+msgstr "Utilisee n’importe quelle image comme image en avant ?"
+
+#: inc/admin/ui/options.php:1630
+msgid "If a post is published without image, you can define here a default image."
+msgstr "Si un article est publié sans image, vous pouvez en définir une par défaut ici."
+
+#: inc/admin/ui/options.php:1629 inc/admin/ui/auto.php:1117
+#: inc/admin/ui/auto.php:1344
+msgid "Image"
+msgstr "Image"
+
+#: inc/admin/ui/options.php:1567
+msgid "<b>Small cards</b> Little image on left and title on right of the image<br/><b>Big cards</b> Big image and title below"
+msgstr "<b>Petites cartes</b> Petite image à gauche et titre à la droite de l’image<br/><b>Grandes cartes</b> Grande image et titre en dessous"
+
+#: inc/admin/ui/options.php:1524 inc/admin/ui/auto.php:1296
+msgid "Favorite system"
+msgstr "Système de favoris"
+
+#: inc/admin/ui/options.php:1520 inc/admin/ui/auto.php:1282
+msgid "Subscribe system"
+msgstr "Système d’abonnement"
+
+#: inc/admin/ui/options.php:1516 inc/admin/ui/auto.php:1680
+msgid "Comments"
+msgstr "Commentaires"
+
+#: inc/admin/ui/options.php:1513
+msgid "&bull; <b>Comments</b>: show the comments and a form to publish on posts<br/>&bull; <b>Subscribe system</b>: add an item on the menu pointing to subscribed category and a button on each post to (un)subscribe<br/>&bull; <b>Favorite system</b>: add an item on the menu to list all favorited posts and a button on each post to favorite<br/>&bull; <b>Share bubble</b>: show a button on each post to share it on social networks"
+msgstr "&bull; <b>Commentaires</b> : afficher les commentaires et un formulaire de soumission sur les articles<br/>&bull; <b>Système d’abonnement</b> : ajoute un élément dans le menu pointant vers les articles des catégories abonnés et affiche un bouton sur les articles pour se (dés)abonner<br/>&bull; <b>Système de favoris</b> : ajoute un élément dans le menu listant tous les articles favoris et un bouton sur les articles pour les y ajouter<br/>&bull; <b>Bulle de partage</b> : affiche un bouton sur les articles pour les partager sur les réseaux sociaux"
+
+#: inc/admin/ui/options.php:1512
+msgid "Special features"
+msgstr "Fonctionnalités spéciales"
+
+#: inc/admin/ui/options.php:1354
+msgid "Additionnal CSS for the Android night mode"
+msgstr "CSS additionnel pour le mode nuit Android"
+
+#: inc/admin/ui/options.php:2593
+msgid "You can restrict the search engine to only some category of the blog."
+msgstr "Vous pouvez restreindre le moteur de recherche à seulement quelques catégories de votre blog."
+
+#: inc/admin/ui/options.php:1708
+msgid "You can show similar posts after an article to engage your users."
+msgstr "Vous pouvez afficher des articles similaires après un article pour engager vos utilisateurs."
+
+#: inc/admin/ui/options.php:1902
+msgid "The homepage is the main screen of your application."
+msgstr "La page d’accueil est l’écran principal de votre application."
+
+#: inc/admin/ui/options.php:1740 inc/admin/ui/options.php:1781
+msgid "You can change the theme of your app when you want, it will be modified in real time on all devices."
+msgstr "Vous pouvez changer le thème de votre application quand vous voulez, il sera modifié en temps réel sur tous les appareils."
+
+#: inc/admin/ui/options.php:1273
+msgid "The rating popup allow the users to go on the store and leave a review."
+msgstr "Le popup de notification donne à vos utilisateurs la possibilité d’aller sur le store et de laisser un avis."
+
+#: inc/admin/ui/options.php:665
+msgid "You can enter here your legal terms."
+msgstr "Vous pouvez entrer ici vos mentions légales."
+
+#: inc/admin/ui/options.php:1855
+msgid "Language to enable"
+msgstr "Langues à activer"
+
+#: inc/admin/ui/options.php:511
+msgid "You must upload a certificate to enable iOS notifications.<br/>You'll receive it by mail when the app is under publication on the App Store.<br/>%sI got the certificate, go to the upload page%s"
+msgstr "Vous devez télécharger un certificat pour activer les notifications iOS.<br/>Vous le recevrez pas mail quand votre application sera en cours de publication sur l’App Store.<br/>%sJ’ai mon certificat, aller sur la page de téléchargement%s"
+
+#: inc/common/admin-bar.php:85 inc/admin/menu.php:55
+msgid "Notifications"
+msgstr "Notifications"
+
+#: inc/admin/ui/options.php:1177
+msgid "App Store ID"
+msgstr "ID App Store"
+
+#: inc/admin/ui/push.php:119 inc/admin/ui/push.php:153
+msgid "Upload successful"
+msgstr "Envoi réussi"
+
+#: inc/admin/menu.php:68
+msgid "iOS Certificate"
+msgstr "Certificat iOS"
+
+#: inc/admin/ui/options.php:448 inc/admin/ui/options.php:1791
+#: inc/admin/ui/theme.php:414
+msgid "Secondary color"
+msgstr "Couleur secondaire"
+
+#: inc/admin/ui/options.php:446 inc/admin/ui/options.php:1789
+#: inc/admin/ui/theme.php:403
+msgid "Primary color"
+msgstr "Couleur primaire"
+
+#: inc/admin/ui/options.php:2520
+msgid "Posts"
+msgstr "Articles"
+
+#: inc/admin/ui/options.php:2592
+msgid "Search restriction"
+msgstr "Limitations du moteur de recherche"
+
+#: inc/admin/ui/options.php:1084 inc/admin/ui/promote.php:160
+msgid "Show the smart banner"
+msgstr "Afficher la bannière"
+
+#: inc/functions/banner.php:126 inc/admin/ui/options.php:1074
+#: inc/admin/ui/promote.php:148
+msgid "FREE"
+msgstr "GRATUIT"
+
+#: inc/admin/ui/options.php:1004 inc/admin/ui/promote.php:79
+msgid "Display a banner on top of your site pointing on the store for your mobile visitors."
+msgstr "Afficher une bannière en haut de votre site pointant vers le magasin pour vos visiteurs mobile."
+
+#: inc/admin/ui/options.php:1002
+msgid "Smart Banner"
+msgstr "Bannière de téléchargement"
+
+#: inc/admin/ui/options.php:283 inc/admin/ui/options.php:333
+msgid "Smart banner"
+msgstr "Bannière de téléchargement"
+
+#: inc/admin/ui/push.php:442
+msgid "Delete history"
+msgstr "Supprimer l’historique"
+
+#: inc/admin/ui/options.php:304
+msgid "Content to show"
+msgstr "Contenu à afficher"
+
+#: inc/admin/ui/options.php:1258
+msgid "<b>'Expert' function, use only if you know what you are doing.</b><br/>If you have any doubt, please contact us on the chat (bottom right) to see what we can do ;)<br/><br/>You can via a regular expression delete some portions of your articles. Useful for example to remove tags or shortcodes that are not automatically deleted or element that is not useful in the application."
+msgstr "<b>Fonction ’expert’, à n’utiliser que si vous savez ce que vous faites.</b><br/>Dans un premier temps ou si vous avez un doute, contactez nous via le chat (en bas à droite) pour voir ce qu’il est possible de faire ;)<br/><br/>Vous pouvez via une expression régulière supprimer certaines portions de vos articles. Utile pour supprimer par exemple des balises ou des codes courts qui sont pas supprimés automatiquement ou un élément qui n’est pas utile dans l’application."
+
+#: inc/admin/ui/options.php:1107 inc/admin/ui/adserver.php:208
+msgid "Useful to add your html banners or communicate an event.<br/><b>Note that you can not use CSS or Javascript. Only HTML tags (img, a, b, i, p, ...).</b>"
+msgstr "Utile pour ajouter dans vos articles des bannières publicitaires ou communiquer sur un événement.<br/><b>Vous ne pouvez pas utiliser de CSS ou de Javascript. Uniquement des balises HTML (img, a, b, i, p, ...).</b>"
+
+#: inc/admin/ui/options.php:1157
+msgid "Cron"
+msgstr "Tâches planifiées"
+
+#: inc/admin/ui/options.php:336 inc/admin/ui/options.php:340
+#: inc/admin/ui/options.php:1155
+msgid "DEBUG"
+msgstr "DEBUG"
+
+#: inc/functions/shortcodes.php:1702 inc/admin/ui/push.php:439
+msgid "Next"
+msgstr "Suivant"
+
+#: inc/admin/ui/push.php:433
+msgid "Previous"
+msgstr "Précédent"
+
+#: inc/admin/ui/options.php:2260
+msgid "Empty"
+msgstr "Vide"
+
+#: inc/admin/ui/options.php:2252
+msgid "OK"
+msgstr "OK"
+
+#: inc/admin/ui/options.php:1689
+msgid "Posts content"
+msgstr "Contenu de l’article"
+
+#: inc/admin/ui/options.php:1169 inc/admin/ui/options.php:1178
+msgid "Get it"
+msgstr "Obtenir"
+
+#: inc/admin/ui/theme.php:469 inc/admin/ui/theme.php:497
+msgid "Custom CSS"
+msgstr "CSS Personalisée"
+
+#: inc/admin/metabox.php:122
+msgid "This post is already published. Notification off."
+msgstr "Cet article est déjà publié. Désactivation par défaut."
+
+#: inc/admin/ui/push.php:387
+msgid "deleted - not sended"
+msgstr "supprimée - non envoyée"
+
+#: inc/admin/metabox.php:88
+msgid "Scheduled"
+msgstr "Programmée"
+
+#: inc/admin/metabox.php:88
+msgid "Sended"
+msgstr "Envoyée"
+
+#: inc/admin/metabox.php:84
+msgid "at"
+msgstr "à"
+
+#: inc/admin/metabox.php:181
+msgid "Set as default"
+msgstr "Définir ces valeurs par défaut"
+
+#: inc/admin/metabox.php:135
+msgid "Set a date"
+msgstr "Choisir une date"
+
+#: inc/admin/metabox.php:134
+msgid "On post publish"
+msgstr "&Agrave; la publication de l’article"
+
+#: inc/admin/metabox.php:126
+msgid "Set a notification?"
+msgstr "Programmer une notification ?"
+
+#: inc/admin/ui/push.php:614 inc/admin/ui/adserver.php:306
+msgid "Language"
+msgstr "Langue"
+
+#: inc/admin/ui/options.php:2253 inc/admin/ui/qrcode.php:120
+#: inc/admin/ui/push.php:390 inc/admin/ui/push.php:424
+#: inc/admin/ui/push.php:652 inc/admin/ui/push.php:663
+#: inc/admin/ui/adserver.php:375
+msgid "Delete"
+msgstr "Supprimer"
+
+#: inc/admin/ui/options.php:2070
+msgid "Reset"
+msgstr "Réinitialiser"
+
+#: inc/admin/ui/options.php:2006
+msgid "Menu builder"
+msgstr "Construction du menu"
+
+#: inc/admin/ui/options.php:1261
+msgid "Example: /&lt;strong&gt;.*&lt;\\/strong&gt;/i"
+msgstr "Exemple : /&lt;strong&gt;.*&lt;\\/strong&gt;/i"
+
+#: inc/admin/ui/options.php:1260
+msgid "Add your regex rules (line break separated)"
+msgstr "Ajoutez vos règles Regex (séparées par un saut de ligne)"
+
+#: inc/admin/ui/options.php:585 inc/admin/ui/cert.php:411
+msgid "Sub title"
+msgstr "Sous titre"
+
+#: inc/admin/ui/cert.php:382
+msgid "Welcome notification"
+msgstr "Notification de bienvenue"
+
+#: inc/admin/ui/options.php:342 inc/admin/ui/options.php:1257
+msgid "Regex modifications"
+msgstr "Modification par Regex"
+
+#: inc/admin/ui/options.php:241
+msgid "Language(s) of the app"
+msgstr "Langue(s) de l’application"
+
+#: inc/admin/metabox.php:163 inc/stats/display.php:539
+msgid "Lang"
+msgstr "Langue"
+
+#: inc/admin/metabox.php:24
+msgid "Send a push notification"
+msgstr "Envoyer une notification push"
+
+#: inc/functions/format.php:103
+msgid "%s seconds ago"
+msgstr "Il y a %s secondes"
+
+#: inc/functions/format.php:99
+msgid "%s minute ago"
+msgstr "Il y a %s minute"
+
+#: inc/functions/format.php:97
+msgid "%s minutes ago"
+msgstr "Il y a %s minutes"
+
+#: inc/functions/format.php:92
+msgid "%s hour ago"
+msgstr "Il y a %s heure"
+
+#: inc/functions/format.php:90
+msgid "%s hours ago"
+msgstr "Il y a %s heures"
+
+#: inc/functions/format.php:85
+msgid "%s day ago"
+msgstr "Il y a %s jour"
+
+#: inc/functions/format.php:83
+msgid "%s days ago"
+msgstr "Il y a %s jours"
+
+#: inc/functions/format.php:78
+msgid "%s month ago"
+msgstr "Il y a %s mois"
+
+#: inc/functions/format.php:76
+msgid "%s months ago"
+msgstr "Il y a %s mois"
+
+#: inc/functions/format.php:72
+msgid "%s year ago"
+msgstr "Il y a %s an"
+
+#: inc/functions/format.php:70
+msgid "%s years ago"
+msgstr "Il y a %s ans"
+
+#: inc/common/cron.php:14
+msgid "Every 3 Minutes"
+msgstr "Toutes les 3 minutes"
+
+#: inc/common/admin-bar.php:35 inc/functions/shortcodes.php:578
+msgid "Push notification"
+msgstr "Notification Push"
+
+#: inc/api/json.php:307 inc/api/json.php:364
+msgid "Take 5 seconds to rate it on the Play Store"
+msgstr "Prenez 5 secondes pour la noter sur le Play Store"
+
+#: inc/api/json.php:306 inc/api/json.php:363
+msgid "You like this app?"
+msgstr "Vous aimez cette application ?"
+
+#: inc/api/json.php:159 inc/api/json.php:361 inc/functions/sdk2019.php:30
+#: inc/admin/import.php:356 inc/admin/import.php:421 inc/admin/import.php:430
+#: inc/admin/import.php:528 inc/admin/ui/options.php:2932
+#: inc/admin/ui/options.php:2978 inc/admin/ui/auto.php:233
+#: inc/admin/ui/auto.php:241 inc/stats/render.php:30 inc/stats/render.php:62
+msgid "Recent posts"
+msgstr "Articles récents"
+
+#: inc/admin/ui/push.php:406
+msgid "in %s"
+msgstr "dans %s"
+
+#: inc/functions/shortcodes.php:958 inc/admin/ui/push.php:405
+msgid "%s ago"
+msgstr "il y a %s"
+
+#: inc/admin/ui/push.php:649 inc/admin/ui/adserver.php:313
+msgid "Schedule"
+msgstr "Programmer"
+
+#: inc/admin/metabox.php:129 inc/admin/ui/push.php:637
+msgid "Send date"
+msgstr "Date d’envoi"
+
+#: inc/admin/ui/publish.php:420 inc/admin/ui/push.php:525
+#: inc/admin/ui/adserver.php:302
+msgid "Choose an image"
+msgstr "Choisir une image"
+
+#: themes/wpappninja-full/footer.php:23 inc/functions/shortcodes.php:489
+#: inc/functions/shortcodes.php:665 inc/functions/appify.php:295
+msgid "Cancel"
+msgstr "Annuler"
+
+#: inc/common/admin-bar.php:59 inc/functions/colors.php:204
+#: inc/functions/colors.php:205 inc/functions/colors.php:207
+#: inc/functions/colors.php:208 inc/functions/colors.php:210
+#: inc/functions/colors.php:211 inc/functions/colors.php:213
+#: inc/functions/colors.php:214 inc/functions/colors.php:284
+#: inc/functions/colors.php:285 inc/functions/colors.php:289
+#: inc/functions/colors.php:291 inc/functions/colors.php:293
+#: inc/admin/ui/options.php:1335 inc/admin/ui/pwa.php:186
+#: inc/admin/ui/cert.php:424 inc/admin/ui/auto.php:869
+#: inc/admin/ui/auto.php:1604 inc/stats/display.php:111
+#: inc/stats/display.php:351
+msgid "Content"
+msgstr "Contenu"
+
+#: inc/admin/ui/options.php:581 inc/admin/ui/options.php:867
+#: inc/admin/ui/options.php:918 inc/admin/ui/options.php:1331
+#: inc/admin/ui/options.php:1593 inc/admin/ui/options.php:1656
+#: inc/admin/ui/options.php:2206 inc/admin/ui/options.php:2371
+#: inc/admin/ui/options.php:2639 inc/admin/ui/cert.php:242
+#: inc/admin/ui/cert.php:398 inc/admin/ui/auto.php:957
+#: inc/admin/ui/auto.php:1549 inc/admin/ui/auto.php:1819
+#: inc/admin/ui/push.php:520 inc/admin/ui/adserver.php:289
+msgid "Title"
+msgstr "Titre"
+
+#: inc/admin/ui/stats.php:180 inc/admin/ui/stats.php:195
+#: inc/admin/ui/push.php:456 inc/admin/ui/adserver.php:129
+#: inc/admin/ui/adserver.php:241
+msgid "Close"
+msgstr "Fermer"
+
+#: inc/stats/render.php:87
+msgid "notification"
+msgstr "notification"
+
+#: inc/admin/metabox.php:59
+msgid "You must add an API KEY"
+msgstr "Vous devez ajouter une clé API"
+
+#: inc/admin/metabox.php:58
+msgid "Action required"
+msgstr "Action requise"
+
+#: inc/admin/ui/options.php:2575 inc/admin/ui/auto.php:1014
+#: inc/admin/ui/auto.php:1463
+msgid "Days"
+msgstr "Jours"
+
+#: inc/admin/ui/options.php:2572 inc/admin/ui/auto.php:1010
+#: inc/admin/ui/auto.php:1459
+msgid "Hide posts older than X days"
+msgstr "Masquer les articles vieux de plus de X jours"
+
+#: inc/admin/ui/options.php:2548
+msgid "Tags"
+msgstr "Étiquettes"
+
+#: inc/admin/ui/options.php:2537
+msgid "Exclude some posts by tags"
+msgstr "Exclure certains articles par tags"
+
+#: inc/admin/ui/options.php:608
+msgid "Muted category"
+msgstr "Catégories muettes"
+
+#: inc/admin/ui/options.php:605
+msgid "Muted categories do not trigger notifications"
+msgstr "Les catégories muettes ne déclenchent pas de notification"
+
+#: inc/admin/ui/options.php:2607
+msgid "By category"
+msgstr "Par catégorie"
+
+#: inc/admin/ui/options.php:1724 inc/admin/ui/auto.php:1178
+#: inc/admin/ui/auto.php:1722
+msgid "Selection rule"
+msgstr "Règle de sélection"
+
+#: inc/admin/ui/options.php:1713 inc/admin/ui/auto.php:1157
+#: inc/admin/ui/auto.php:1701
+msgid "Number"
+msgstr "Nombre"
+
+#: inc/admin/ui/options.php:1707
+msgid "Similar posts"
+msgstr "Articles similaires"
+
+#: inc/admin/ui/options.php:2463 inc/admin/ui/options.php:2467
+msgid "Content type"
+msgstr "Type de contenu"
+
+#: inc/admin/ui/options.php:2464
+msgid "Leave only `post` if you do not know what you are doing"
+msgstr "Laissez seulement `post` si vous ne savez pas ce que vous faites"
+
+#: inc/admin/ui/options.php:2461
+msgid "Posts visibles in the app"
+msgstr "Articles visibles dans l’application"
+
+#: inc/admin/ui/auto.php:1274
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: inc/admin/ui/options.php:1980
+msgid "Latest posts"
+msgstr "Derniers articles"
+
+#: inc/admin/ui/options.php:389 inc/admin/ui/options.php:395
+#: inc/admin/ui/options.php:408 inc/admin/ui/options.php:1932
+#: inc/admin/ui/options.php:1967 inc/admin/ui/options.php:2162
+#: inc/admin/ui/options.php:2194 inc/admin/ui/cert.php:362
+#: inc/admin/ui/publish.php:297 inc/admin/ui/publish.php:299
+#: inc/admin/ui/stats.php:143 inc/admin/ui/push.php:517
+#: inc/admin/ui/adserver.php:373
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/admin/ui/options.php:378 inc/admin/ui/options.php:1891
+#: inc/admin/ui/options.php:1901 inc/admin/ui/options.php:2403
+#: inc/admin/ui/pwa.php:191 inc/admin/ui/publish.php:312
+msgid "Homepage"
+msgstr "Accueil"
+
+#: inc/admin/ui/options.php:1739 inc/admin/ui/options.php:1780
+msgid "Theme of the app"
+msgstr "Thème de l’application"
+
+#: inc/admin/ui/options.php:1700 inc/admin/ui/auto.php:1666
+msgid "Show author bio after post"
+msgstr "Voir la bio de l’auteur après l’article"
+
+#: inc/admin/ui/options.php:1633 inc/admin/ui/auto.php:1124
+#: inc/admin/ui/auto.php:1351
+msgid "Default image url (optional)"
+msgstr "Url de l’image par défaut (facultatif)"
+
+#: inc/admin/ui/options.php:1575 inc/admin/ui/auto.php:1448
+msgid "Small cards"
+msgstr "Petites cartes"
+
+#: inc/admin/ui/options.php:1574 inc/admin/ui/auto.php:1447
+msgid "Big cards"
+msgstr "Grandes cartes"
+
+#: inc/admin/ui/options.php:1570
+msgid "Default view"
+msgstr "Affichage par défaut"
+
+#: inc/admin/ui/options.php:1566
+msgid "Posts listing"
+msgstr "Liste des articles"
+
+#: inc/admin/ui/options.php:1681
+msgid "Show hour?"
+msgstr "Afficher l’heure ?"
+
+#: inc/admin/ui/options.php:1673 inc/admin/ui/auto.php:1396
+msgid "5 days ago"
+msgstr "Il y a 5 jours"
+
+#: inc/admin/ui/options.php:1670 inc/admin/ui/auto.php:1389
+msgid "Date type"
+msgstr "Type de date"
+
+#: inc/admin/ui/options.php:1667 inc/admin/ui/auto.php:1383
+msgid "Date and time"
+msgstr "Date et heure"
+
+#: inc/admin/ui/options.php:1280
+msgid "After reading X posts (0 = deactivate)"
+msgstr "Après lecture de X articles (0 = désactiver)"
+
+#: inc/admin/ui/options.php:1276
+msgid "Trigger rule"
+msgstr "Déclencheur"
+
+#: inc/admin/ui/options.php:1169
+msgid "Package name"
+msgstr "Nom du package"
+
+#: inc/admin/ui/options.php:1248
+msgid "Identifiant"
+msgstr "Identifiant"
+
+#: inc/admin/ui/options.php:1245
+msgid "Follow %sthe guide%s to get a Google Analytics UA id"
+msgstr "Suivez %sle guide%s pour obtenir un identifiant Google Analytics"
+
+#: inc/admin/ui/options.php:1233 inc/admin/ui/adserver.php:192
+msgid "300x250 after post"
+msgstr "300x250 après l’article"
+
+#: inc/admin/ui/options.php:1224 inc/admin/ui/adserver.php:183
+msgid "300x250 before post"
+msgstr "300x250 avant l’article"
+
+#: inc/admin/ui/options.php:1215 inc/admin/ui/adserver.php:174
+msgid "Floating bar"
+msgstr "Barre flottante"
+
+#: inc/admin/ui/options.php:1191 inc/admin/ui/options.php:1206
+#: inc/admin/ui/adserver.php:151 inc/admin/ui/adserver.php:165
+msgid "Splash screen"
+msgstr "&Eacute;cran de démarrage"
+
+#: inc/admin/ui/options.php:1188 inc/admin/ui/options.php:1203
+#: inc/admin/ui/adserver.php:148 inc/admin/ui/adserver.php:162
+msgid "Follow %sthe guide%s to create a new ad block"
+msgstr "Suivez %sle guide%s pour créer un nouveau bloc d’annonce"
+
+#: inc/admin/ui/options.php:1119 inc/admin/ui/adserver.php:218
+msgid "After the post"
+msgstr "Après l’article"
+
+#: inc/admin/ui/options.php:1109 inc/admin/ui/adserver.php:212
+msgid "Before the post"
+msgstr "Avant l’article"
+
+#: inc/admin/ui/options.php:1106
+msgid "Inject HTML"
+msgstr "Injecter du code HTML"
+
+#: inc/admin/ui/options.php:1101
+msgid "Follow %sthe guide%s for activate the app indexing api"
+msgstr "Suivez %sle guide%s pour activer l’app indexing"
+
+#: inc/admin/ui/options.php:1099
+msgid "App indexing (SEO)"
+msgstr "App Indexing (SEO)"
+
+#: inc/admin/ui/options.php:503 inc/admin/ui/options.php:538
+#: inc/admin/ui/options.php:1085 inc/admin/ui/options.php:1517
+#: inc/admin/ui/options.php:1521 inc/admin/ui/options.php:1525
+#: inc/admin/ui/options.php:1529 inc/admin/ui/options.php:1533
+#: inc/admin/ui/options.php:1545 inc/admin/ui/options.php:1550
+#: inc/admin/ui/options.php:1555 inc/admin/ui/options.php:1639
+#: inc/admin/ui/options.php:1644 inc/admin/ui/options.php:1649
+#: inc/admin/ui/options.php:1660 inc/admin/ui/options.php:1678
+#: inc/admin/ui/options.php:1682 inc/admin/ui/options.php:1693
+#: inc/admin/ui/options.php:1697 inc/admin/ui/options.php:1701
+#: inc/admin/ui/options.php:2586 inc/admin/ui/promote.php:161
+#: inc/admin/ui/cert.php:107 inc/admin/ui/cert.php:132
+#: inc/admin/ui/cert.php:144 inc/admin/ui/cert.php:156
+#: inc/admin/ui/cert.php:168 inc/admin/ui/cert.php:180
+#: inc/admin/ui/cert.php:390 inc/admin/ui/auto.php:416
+#: inc/admin/ui/auto.php:430 inc/admin/ui/auto.php:513
+#: inc/admin/ui/auto.php:546 inc/admin/ui/auto.php:559
+#: inc/admin/ui/auto.php:735 inc/admin/ui/auto.php:746
+#: inc/admin/ui/auto.php:758 inc/admin/ui/auto.php:842
+#: inc/admin/ui/auto.php:854 inc/admin/ui/auto.php:866
+#: inc/admin/ui/auto.php:875 inc/admin/ui/auto.php:880
+#: inc/admin/ui/auto.php:885 inc/admin/ui/auto.php:897
+#: inc/admin/ui/auto.php:904 inc/admin/ui/auto.php:910
+#: inc/admin/ui/auto.php:923 inc/admin/ui/auto.php:943
+#: inc/admin/ui/auto.php:1027 inc/admin/ui/auto.php:1143
+#: inc/admin/ui/auto.php:1211 inc/admin/ui/auto.php:1227
+#: inc/admin/ui/auto.php:1287 inc/admin/ui/auto.php:1301
+#: inc/admin/ui/auto.php:1315 inc/admin/ui/auto.php:1370
+#: inc/admin/ui/auto.php:1411 inc/admin/ui/auto.php:1425
+#: inc/admin/ui/auto.php:1476 inc/admin/ui/auto.php:1596
+#: inc/admin/ui/auto.php:1615 inc/admin/ui/auto.php:1629
+#: inc/admin/ui/auto.php:1643 inc/admin/ui/auto.php:1657
+#: inc/admin/ui/auto.php:1671 inc/admin/ui/auto.php:1685
+#: inc/admin/ui/auto.php:1754 inc/admin/ui/auto.php:1872
+#: inc/admin/ui/auto.php:1886 inc/admin/ui/auto.php:1900
+#: inc/admin/ui/auto.php:1914 inc/admin/ui/auto.php:2001
+#: inc/admin/ui/auto.php:2031 inc/admin/ui/auto.php:2042
+#: inc/admin/ui/adserver.php:138
+msgid "No"
+msgstr "Non"
+
+#: inc/admin/ui/options.php:503 inc/admin/ui/options.php:538
+#: inc/admin/ui/options.php:1085 inc/admin/ui/options.php:1517
+#: inc/admin/ui/options.php:1521 inc/admin/ui/options.php:1525
+#: inc/admin/ui/options.php:1529 inc/admin/ui/options.php:1533
+#: inc/admin/ui/options.php:1545 inc/admin/ui/options.php:1550
+#: inc/admin/ui/options.php:1555 inc/admin/ui/options.php:1639
+#: inc/admin/ui/options.php:1644 inc/admin/ui/options.php:1649
+#: inc/admin/ui/options.php:1660 inc/admin/ui/options.php:1678
+#: inc/admin/ui/options.php:1682 inc/admin/ui/options.php:1693
+#: inc/admin/ui/options.php:1697 inc/admin/ui/options.php:1701
+#: inc/admin/ui/options.php:2411 inc/admin/ui/options.php:2586
+#: inc/admin/ui/promote.php:161 inc/admin/ui/cert.php:107
+#: inc/admin/ui/cert.php:132 inc/admin/ui/cert.php:144
+#: inc/admin/ui/cert.php:156 inc/admin/ui/cert.php:168
+#: inc/admin/ui/cert.php:180 inc/admin/ui/cert.php:390
+#: inc/admin/ui/auto.php:416 inc/admin/ui/auto.php:430
+#: inc/admin/ui/auto.php:513 inc/admin/ui/auto.php:546
+#: inc/admin/ui/auto.php:559 inc/admin/ui/auto.php:735
+#: inc/admin/ui/auto.php:746 inc/admin/ui/auto.php:758
+#: inc/admin/ui/auto.php:842 inc/admin/ui/auto.php:854
+#: inc/admin/ui/auto.php:866 inc/admin/ui/auto.php:875
+#: inc/admin/ui/auto.php:880 inc/admin/ui/auto.php:885
+#: inc/admin/ui/auto.php:897 inc/admin/ui/auto.php:904
+#: inc/admin/ui/auto.php:910 inc/admin/ui/auto.php:923
+#: inc/admin/ui/auto.php:943 inc/admin/ui/auto.php:1027
+#: inc/admin/ui/auto.php:1143 inc/admin/ui/auto.php:1211
+#: inc/admin/ui/auto.php:1227 inc/admin/ui/auto.php:1287
+#: inc/admin/ui/auto.php:1301 inc/admin/ui/auto.php:1315
+#: inc/admin/ui/auto.php:1370 inc/admin/ui/auto.php:1411
+#: inc/admin/ui/auto.php:1425 inc/admin/ui/auto.php:1476
+#: inc/admin/ui/auto.php:1596 inc/admin/ui/auto.php:1615
+#: inc/admin/ui/auto.php:1629 inc/admin/ui/auto.php:1643
+#: inc/admin/ui/auto.php:1657 inc/admin/ui/auto.php:1671
+#: inc/admin/ui/auto.php:1685 inc/admin/ui/auto.php:1754
+#: inc/admin/ui/auto.php:1872 inc/admin/ui/auto.php:1886
+#: inc/admin/ui/auto.php:1900 inc/admin/ui/auto.php:1914
+#: inc/admin/ui/auto.php:2001 inc/admin/ui/auto.php:2031
+#: inc/admin/ui/auto.php:2042 inc/admin/ui/adserver.php:138
+msgid "Yes"
+msgstr "Oui"
+
+#: inc/admin/ui/cert.php:128
+msgid "When a post is published"
+msgstr "Quand un nouvel article est publié"
+
+#: inc/admin/ui/cert.php:122
+msgid "Automatic push"
+msgstr "Notification automatique"
+
+#: inc/admin/ui/options.php:1243 inc/admin/ui/stats.php:147
+#: inc/admin/ui/stats.php:183
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: inc/admin/ui/options.php:322 inc/admin/ui/options.php:495
+#: inc/admin/ui/menu.php:362 inc/admin/ui/home.php:336
+#: inc/stats/display.php:107
+msgid "Push notifications"
+msgstr "Notifications push"
+
+#: inc/admin/ui/options.php:320
+msgid "About page"
+msgstr "Page à propos"
+
+#: inc/admin/ui/options.php:300 inc/admin/ui/options.php:1271
+msgid "Rating popup"
+msgstr "Popup de notation"
+
+#: inc/admin/ui/options.php:341
+msgid "HTML injection"
+msgstr "Injection de HTML"
+
+#: inc/admin/ui/options.php:302 inc/admin/ui/options.php:1509
+msgid "App interface"
+msgstr "Interface de l’application"
+
+#: inc/admin/ui/options.php:243
+msgid "Colors of the app"
+msgstr "Couleurs de l’application"
+
+#: inc/admin/ui/options.php:197
+msgid "GOT IT"
+msgstr "J’AI COMPRIS"
+
+#: inc/admin/ui/options.php:196
+msgid "To optimize performance, the application uses a cache system. Changes made from WordPress can take up to 1 hour to be available on apps."
+msgstr "Pour optimiser les performances, l’application utilise un système de cache. Les modifications apportées depuis WordPress peuvent prendre jusqu’à 1 heure pour être disponible sur les applications."
+
+#: inc/admin/ui/options.php:195
+msgid "Important notice"
+msgstr "Remarque importante"
+
+#: inc/admin/ui/options.php:439 inc/admin/ui/pwa.php:164
+#: inc/admin/ui/publish.php:385
+msgid "Choose a logo"
+msgstr "﻿Choisissez un logo"
+
+#: inc/admin/ui/options.php:436
+msgid "App logo"
+msgstr "Logo de l’application"
+
+#: inc/admin/ui/options.php:428
+msgid "Your App"
+msgstr "Votre Appli"
+
+#: inc/admin/ui/options.php:148
+msgid "Please review the form"
+msgstr "Vérifiez le formulaire"
+
+#: inc/common/admin-bar.php:129 inc/admin/menu.php:67 inc/admin/ui/home.php:353
+msgid "Settings"
+msgstr "Réglages"

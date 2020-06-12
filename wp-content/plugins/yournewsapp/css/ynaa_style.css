@@ -1,0 +1,453 @@
+div#side-sortables { width:300px;}
+div#posttype-page > ul > li.ui-tabs-active, div#posttype-post > ul > li.ui-tabs-active {
+	border-style: solid solid none;
+    border-width: 1px 1px 0;
+	border-color: #DFDFDF;
+}
+div#posttype-page > ul > li.ui-tabs-active a, div#posttype-post > ul > li.ui-tabs-active a {
+	color: #333333;
+}
+
+div#post-body-content {
+	padding:20px;
+}
+div.publishing-action {
+	padding:10px 10px;
+}
+
+#menu-management-liquid {
+	min-width:auto;
+	margin-left:20px;
+}
+
+#css_textarea {
+	width:500px;
+	height:300px;
+}
+
+.extraweit { 
+	width:300px; 
+}
+
+#nh_ynaa_form #nav-menu-header {
+	margin-bottom:0 !important;
+}
+
+#nh_ynaa_form .wp-picker-container {
+	float:left;
+	width:150px;
+}
+
+#nh_ynaa_form .nh-floatleft{
+	float:left;
+	margin-right:10px;
+}
+
+#nh_ynaa_form .helptext {
+	float:left;
+	width:100%;
+	/*line-height:27px;*/
+	/*padding-top:5px;*/
+}
+
+#blappsta_logo_cont {
+  width: 236px;
+  height: 40px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  display: inline-block;
+  margin-left:15px;
+}
+
+#nh_ynaa_form .helptext.padding0{
+	padding-top:0;
+}
+#nh_ynaa_form .helptext.padding5{
+	padding-top:5px;
+}
+
+#previewapp_help  h3{
+    cursor: pointer;
+}
+
+.previewapp_content  {
+    display: none;
+}
+
+#nh_ynaa_form.nh_ynaa_general_settings {
+	float:left;
+	width:55%;
+}
+
+#nh-simulator {
+	width: 300px; 
+	float: left;
+	/*margin-top:50px;*/
+}
+
+.ui-widget {
+    font-family: ""Open Sans",sans-serif";
+}
+#menu-to-edit li.floatli {
+	float:left;
+	margin:5px;
+	margin-bottom:20px;
+
+}
+#menu-to-edit li.floatli.teaserli {
+	width: 250px;
+	min-height: 170px;
+}
+#menu-to-edit.nh-homepreset-ul li {
+	min-height: 200px;
+}
+#menu-to-edit li.floatli div.teaserdiv {
+	border:1px solid #999;
+	width:250px;
+	height:90px;
+	color:#ffffff;
+	font-family:Helvetica, sans-serif;
+	font-size:15px; font-weight:bold;
+	background-size: 250px;
+    background-repeat: no-repeat;
+	cursor:move;
+}
+.empty_teaser_li {
+	width:250px;
+	height:90px;
+	border:1px dotted #000000;
+	background:url(../img/2-1.gif) no-repeat center;
+}
+
+#menu-to-edit li.floatli.teaserli input {
+	width:100% !important;
+}
+#menu-to-edit li.floatli div.hpdiv {
+	border:1px solid #999;
+	width:159px;
+	height:119px;
+	color:#ffffff;
+	font-family:Helvetica, sans-serif;
+	font-size:15px; font-weight:bold;
+	background-size:cover;
+    background-repeat: no-repeat;
+	margin-right:10px;
+	cursor:move;
+}
+
+#menu-to-edit li.empty_li_clear {clear:left; }
+
+#menu-to-edit li.floatli div.teaserdiv div.ttitle, #menu-to-edit li.floatli div.hpdiv div.ttitle {
+	background: rgb(0, 0, 0);
+	 /* The Fallback */
+	 background: rgba(0, 0, 0, 0.15); height:30px; padding:5px;
+	/*background-image: -moz-linear-gradient(top , #ccc 25%, #fff 75%);
+	background-image: -webkit-linear-gradient(top , #ccc 25%, #fff 75%);
+	background-image: -ms-linear-gradient(top , #ccc 25%, #fff 75%);
+	background-image: -o-linear-gradient(top , #ccc 25%, #fff 75%);*/
+	overflow:hidden;
+}
+#menu-to-edit li.floatli input{
+	width:159px;
+}
+
+#nh_ynaa_form .categorychecklist label {
+	float: none;
+}
+
+
+.setdefaultcatpic {
+	font-size: 11px;
+    margin-top: 40px;
+    text-align: right;
+	padding-right:3px;
+}
+
+.empty_homepreset_li {
+	width:159px;
+	height:119px;
+	border:1px dotted #000000;
+	background:url(../img/2-1.gif) no-repeat center;
+}
+
+div.homepresetpreview {
+	width:400px !important;
+}
+
+.categorychecklist label{
+	padding: 0;
+}
+label.posttypelabel {
+  margin-right: 30px;
+}
+
+div.blappsta-plugin-header {
+	float: left;
+	width:50%;
+	min-width:600px;
+	margin-right:20px;
+}
+
+
+.howtolist, .help-tab-content ul.howtolist li {
+	list-style:outside decimal;
+	margin-left:20px;
+	width:80%;
+	/*float:left;*/
+	margin-right:15px;
+
+}
+
+div.h30 {
+	height:30px;
+}
+
+/* Kategorie */
+#categorie-div-con {
+	width:90%;
+}
+
+.categorie-div-con > ul {
+	margin:0;
+	padding:0;
+	list-style:none;
+	display: -webkit-flex;
+ 	 display: -ms-flexbox;
+ 	 display: flex;
+ 	 overflow: hidden;
+	 flex-wrap:wrap;
+	
+}
+
+.categorie-div-con > ul li {
+	float:left;
+	margin:5px 15px 15px;
+	padding:10px;
+	background:rgba(255,255,255,0.5);
+
+	list-style:none;
+	/*min-height:575px;*/
+}
+
+#extras-div-con li {
+   /* min-height: 212px;*/
+}
+.categorie-div-con > ul li  > div {
+	width:185px;
+}
+.categorie-div-con > ul li  div.image-div {
+	border:1px solid #999999;
+	color:#fff;
+
+	width:185px;
+	height:119px;
+	background-size:cover;
+}
+.categorie-div-con > ul li  div.image-div div.ttitle {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.15);
+    height: 30px;
+    overflow: hidden;
+    padding: 5px;
+}
+.categorie-div-con > ul li  div.image-div div.ttitle-hidden {
+	background: none repeat scroll 0 0 rgba(128, 128, 128, 0.8);
+	height: 109px;
+	color: #ccc;
+	overflow: hidden;
+	padding: 5px;
+}
+
+div.image-div span {
+	display: block;
+	color: #000;
+	font-style: italic;
+}
+
+.categorie-div-con > ul li input.cat-name-input {
+	width:185px;
+}
+
+.categorie-div-con .reset-cat-img-link-cont {
+	position:relative;
+	left:50px;
+	top:-60px;
+}
+
+.categorie-div-con .margin-botton {
+	margin-bottom:15px;
+}
+
+.categorie-div-con .reset-cat-img-link {
+	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
+	padding: 2px;
+}
+
+.cat_deactivated {
+	background: none repeat scroll 0 0 rgba(128, 128, 128, 0.7) !important;
+	color: #ccc !important;
+}
+
+.full_height {
+	height: 100% !important;
+}
+
+.hide-cat-div {margin-bottom:5px; }
+
+.show-subcat-div { overflow:hidden; }
+
+.hidethisdiv { display:none; }
+
+.clear { clear:both; }
+
+
+/* support button */
+#nh_support_button {
+	display: block;
+	border: 1px solid #ff8000;
+	background-color: #FF8000;
+	cursor: pointer;
+	position: fixed;
+	z-index: 10000;
+	top: 25%;
+	right: 0;
+	height: 108px;
+}
+
+.nodisplay {
+	display:none !important;
+}
+
+label.activated {
+	color: #ccc;
+}
+
+.padding0 {
+	padding: 0;
+	width: 150px;
+}
+
+.padding0 input {
+	margin-top: 0;
+}
+
+.stickyBottom {
+	background: none repeat scroll 0 0 rgba(255, 255, 255, 0.85);
+    bottom: 0;
+    left: 160px;   
+    position: fixed;
+    width: 100%;
+    z-index: 999;
+}
+
+body.folded .stickyBottom {
+	 left: 36px;   
+}
+
+
+.stickyBottom .submit {
+	padding:10px;
+	margin-top:5px;
+}
+
+#ynaa_nav_tab {
+	/*width:100%;*/
+	background-color:#f1f1f1;
+	z-index:10;
+}
+
+#ynaa_nav_tab.fixed {
+	position:fixed;
+	top:30px;
+	
+}
+
+#nh_ynaa_form .form-table {
+	/*margin-bottom:60px; */
+}
+
+#nh_ynaa_form #accordion h3 {
+    margin-bottom: 0;
+    margin-top: 15px;
+}
+
+#nh_ynaa_form .form-table th {
+	padding-left: 10px;
+}
+@media only screen and (max-width: 960px){
+    .stickyBottom {
+	 left: 36px;   
+	}
+    #nh_ynaa_form.nh_ynaa_general_settings {
+		width:60%;
+	}
+}
+@media only screen and (max-width: 850px){
+   #nh_ynaa_form.nh_ynaa_general_settings {
+		width:100%;
+	}
+}
+@media screen and (max-width: 782px) {
+	body.folded .stickyBottom, .stickyBottom {
+	 left: 0;   
+	}
+	
+	body.folded .wp-responsive-open .stickyBottom {
+		 left: 190px;  	
+	}
+	#nh_ynaa_form.nh_ynaa_general_settings {
+		width:100%;
+	}
+
+	#nh_ynaa_form.nh_ynaa_general_settings h3 {
+		margin-top:50px;
+	}	
+	#nh_ynaa_form .wp-color-result:after {
+		font-size:11px;
+		
+	}
+	#nh_ynaa_form .menu-item {
+		width:90%;
+	}	
+	#menu-management-liquid {
+		margin-left:0;
+	}	
+	#nh_ynaa_form.nh_ynaa_general_settings {
+		margin-bottom:100px;
+	}	
+	#nh_ynaa_form .nh-floatleft {
+		width:100%;
+	}
+}
+
+form.nh_ynaa_categories_settings label, form.nh_ynaa_menu_settings label, .nh_ynaa_teaser_settings label {
+    padding: 0;
+}
+
+.settings_page_nh_ynaa_plugin_options #post-body-content {
+    width: auto;
+}
+
+#side-sortables .add-menu-item-tabs{
+    border: 0;
+    padding: 0;
+    background: none;
+    margin-bottom:0;
+}
+
+.nh_ynaa_general_settings a.upload_image_button {
+    position: relative;
+    top: -15px;
+}
+
+.form-table  th {
+    vertical-align: middle;
+}
+
+#accordion {
+    margin-right: 40px;
+
+}
+
+.contextual-help-link-a {
+    margin-bottom: 10px;
+}

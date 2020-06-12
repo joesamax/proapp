@@ -1,0 +1,32 @@
+# Translation of Plugins - WordPress Mobile Pack &#8211; Mobile Plugin for Progressive Web Apps &amp; Hybrid Mobile Apps - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - WordPress Mobile Pack &#8211; Mobile Plugin for Progressive Web Apps &amp; Hybrid Mobile Apps - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-06 13:07:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - WordPress Mobile Pack &#8211; Mobile Plugin for Progressive Web Apps &amp; Hybrid Mobile Apps - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.appticles.com/"
+msgstr "http://www.appticles.com/"
+
+#. Author of the plugin/theme
+msgid "Appticles.com"
+msgstr "Appticles.com"
+
+#. Description of the plugin/theme
+msgid "WordPress Mobile Pack 2.0+ has been completely rebuilt from the ground up and repurposed to empower bloggers, publishers and other content creators to go beyond responsiveness and 'appify' the content of their blog."
+msgstr "WordPress Mobile Pack 2.0+ a été complètement reconstruite à partir de zéro et et réaménagé pour donner aux blogueurs, éditeurs et autres créateurs de contenu d'aller au-delà de la réactivité et de transformer en application le contenu de leur blog."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/wordpress-mobile-pack/"
+msgstr "http://wordpress.org/plugins/wordpress-mobile-pack/"
+
+#. Plugin Name of the plugin/theme
+msgid "WordPress Mobile Pack"
+msgstr "WordPress Mobile Pack"
